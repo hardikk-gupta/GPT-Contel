@@ -22,6 +22,10 @@ npm run preview
 
 The production output in `dist/` contains the same page and local files. The preview server uses port 4173. There is no bundling or minification that could change the original stylesheet's behavior.
 
+## Deploy on Vercel
+
+Import the repository with its root directory set to the repository root. The committed `vercel.json` selects the static build, runs `npm run build`, and publishes `dist/`, including `dist/index.html` at `/`. This avoids deploying only the asset directory without a homepage. After changing deployment configuration, use the URL of the new deployment; an older deployment URL retains its older build.
+
 ## Verify the copy
 
 ```sh
