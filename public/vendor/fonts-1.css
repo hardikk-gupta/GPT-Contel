@@ -1,0 +1,254 @@
+@font-face {
+    font-family: 'Open Sauce One';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Open Sauce One'), url('/vendor/fonts/family-1-11.woff') format('woff');
+}
+@font-face {
+    font-family: 'Open Sauce One';
+    font-style: italic;
+    font-weight: 400;
+    src: local('Open Sauce One'), url('/vendor/fonts/family-1-6.woff') format('woff');
+}
+@font-face {
+    font-family: 'Open Sauce One';
+    font-style: normal;
+    font-weight: 300;
+    src: local('Open Sauce One'), url('/vendor/fonts/family-1-7.woff') format('woff');
+}
+@font-face {
+    font-family: 'Open Sauce One';
+    font-style: italic;
+    font-weight: 300;
+    src: local('Open Sauce One'), url('/vendor/fonts/family-1-8.woff') format('woff');
+}
+@font-face {
+    font-family: 'Open Sauce One';
+    font-style: normal;
+    font-weight: 500;
+    src: local('Open Sauce One'), url('/vendor/fonts/family-1-9.woff') format('woff');
+}
+@font-face {
+    font-family: 'Open Sauce One';
+    font-style: italic;
+    font-weight: 500;
+    src: local('Open Sauce One'), url('/vendor/fonts/family-1-10.woff') format('woff');
+}
+@font-face {
+    font-family: 'Open Sauce One';
+    font-style: normal;
+    font-weight: 600;
+    src: local('Open Sauce One'), url('/vendor/fonts/family-1-12.woff') format('woff');
+}
+@font-face {
+    font-family: 'Open Sauce One';
+    font-style: italic;
+    font-weight: 600;
+    src: local('Open Sauce One'), url('/vendor/fonts/family-1-13.woff') format('woff');
+}
+@font-face {
+    font-family: 'Open Sauce One';
+    font-style: normal;
+    font-weight: 700;
+    src: local('Open Sauce One'), url('/vendor/fonts/family-1-2.woff') format('woff');
+}
+@font-face {
+    font-family: 'Open Sauce One';
+    font-style: italic;
+    font-weight: 700;
+    src: local('Open Sauce One'), url('/vendor/fonts/family-1-3.woff') format('woff');
+}
+@font-face {
+    font-family: 'Open Sauce One';
+    font-style: normal;
+    font-weight: 800;
+    src: local('Open Sauce One'), url('/vendor/fonts/family-1-4.woff') format('woff');
+}
+@font-face {
+    font-family: 'Open Sauce One';
+    font-style: italic;
+    font-weight: 800;
+    src: local('Open Sauce One'), url('/vendor/fonts/family-1-5.woff') format('woff');
+}
+@font-face {
+    font-family: 'Open Sauce One';
+    font-style: normal;
+    font-weight: 900;
+    src: local('Open Sauce One'), url('/vendor/fonts/family-1-0.woff') format('woff');
+}
+@font-face {
+    font-family: 'Open Sauce One';
+    font-style: italic;
+    font-weight: 900;
+    src: local('Open Sauce One'), url('/vendor/fonts/family-1-1.woff') format('woff');
+}
+@font-face {
+    font-family: 'Open Sauce Two';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Open Sauce Two'), url('/vendor/fonts/family-1-39.woff') format('woff');
+}
+@font-face {
+    font-family: 'Open Sauce Sans';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Open Sauce Sans'), url('/vendor/fonts/family-1-25.woff') format('woff');
+}
+@font-face {
+    font-family: 'Open Sauce Two';
+    font-style: italic;
+    font-weight: 400;
+    src: local('Open Sauce Two'), url('/vendor/fonts/family-1-34.woff') format('woff');
+}
+@font-face {
+    font-family: 'Open Sauce Sans';
+    font-style: italic;
+    font-weight: 400;
+    src: local('Open Sauce Sans'), url('/vendor/fonts/family-1-20.woff') format('woff');
+}
+@font-face {
+    font-family: 'Open Sauce Two';
+    font-style: normal;
+    font-weight: 300;
+    src: local('Open Sauce Two'), url('/vendor/fonts/family-1-35.woff') format('woff');
+}
+@font-face {
+    font-family: 'Open Sauce Sans';
+    font-style: normal;
+    font-weight: 300;
+    src: local('Open Sauce Sans'), url('/vendor/fonts/family-1-21.woff') format('woff');
+}
+@font-face {
+    font-family: 'Open Sauce Two';
+    font-style: italic;
+    font-weight: 300;
+    src: local('Open Sauce Two'), url('/vendor/fonts/family-1-36.woff') format('woff');
+}
+@font-face {
+    font-family: 'Open Sauce Sans';
+    font-style: italic;
+    font-weight: 300;
+    src: local('Open Sauce Sans'), url('/vendor/fonts/family-1-22.woff') format('woff');
+}
+@font-face {
+    font-family: 'Open Sauce Two';
+    font-style: normal;
+    font-weight: 500;
+    src: local('Open Sauce Two'), url('/vendor/fonts/family-1-37.woff') format('woff');
+}
+@font-face {
+    font-family: 'Open Sauce Sans';
+    font-style: normal;
+    font-weight: 500;
+    src: local('Open Sauce Sans'), url('/vendor/fonts/family-1-23.woff') format('woff');
+}
+@font-face {
+    font-family: 'Open Sauce Two';
+    font-style: italic;
+    font-weight: 500;
+    src: local('Open Sauce Two'), url('/vendor/fonts/family-1-38.woff') format('woff');
+}
+@font-face {
+    font-family: 'Open Sauce Sans';
+    font-style: italic;
+    font-weight: 500;
+    src: local('Open Sauce Sans'), url('/vendor/fonts/family-1-24.woff') format('woff');
+}
+@font-face {
+    font-family: 'Open Sauce Two';
+    font-style: normal;
+    font-weight: 600;
+    src: local('Open Sauce Two'), url('/vendor/fonts/family-1-40.woff') format('woff');
+}
+@font-face {
+    font-family: 'Open Sauce Sans';
+    font-style: normal;
+    font-weight: 600;
+    src: local('Open Sauce Sans'), url('/vendor/fonts/family-1-26.woff') format('woff');
+}
+@font-face {
+    font-family: 'Open Sauce Two';
+    font-style: italic;
+    font-weight: 600;
+    src: local('Open Sauce Two'), url('/vendor/fonts/family-1-41.woff') format('woff');
+}
+@font-face {
+    font-family: 'Open Sauce Sans';
+    font-style: italic;
+    font-weight: 600;
+    src: local('Open Sauce Sans'), url('/vendor/fonts/family-1-27.woff') format('woff');
+}
+@font-face {
+    font-family: 'Open Sauce Sans';
+    font-style: normal;
+    font-weight: 700;
+    src: local('Open Sauce Sans'), url('/vendor/fonts/family-1-16.woff') format('woff');
+}
+@font-face {
+    font-family: 'Open Sauce Two';
+    font-style: normal;
+    font-weight: 700;
+    src: local('Open Sauce Two'), url('/vendor/fonts/family-1-30.woff') format('woff');
+}
+@font-face {
+    font-family: 'Open Sauce Sans';
+    font-style: italic;
+    font-weight: 700;
+    src: local('Open Sauce Sans'), url('/vendor/fonts/family-1-17.woff') format('woff');
+}
+@font-face {
+    font-family: 'Open Sauce Two';
+    font-style: italic;
+    font-weight: 700;
+    src: local('Open Sauce Two'), url('/vendor/fonts/family-1-31.woff') format('woff');
+}
+@font-face {
+    font-family: 'Open Sauce Two';
+    font-style: normal;
+    font-weight: 800;
+    src: local('Open Sauce Two'), url('/vendor/fonts/family-1-32.woff') format('woff');
+}
+@font-face {
+    font-family: 'Open Sauce Sans';
+    font-style: normal;
+    font-weight: 800;
+    src: local('Open Sauce Sans'), url('/vendor/fonts/family-1-18.woff') format('woff');
+}
+@font-face {
+    font-family: 'Open Sauce Two';
+    font-style: italic;
+    font-weight: 800;
+    src: local('Open Sauce Two'), url('/vendor/fonts/family-1-33.woff') format('woff');
+}
+@font-face {
+    font-family: 'Open Sauce Sans';
+    font-style: italic;
+    font-weight: 800;
+    src: local('Open Sauce Sans'), url('/vendor/fonts/family-1-19.woff') format('woff');
+}
+@font-face {
+    font-family: 'Open Sauce Sans';
+    font-style: normal;
+    font-weight: 900;
+    src: local('Open Sauce Sans'), url('/vendor/fonts/family-1-14.woff') format('woff');
+}
+@font-face {
+    font-family: 'Open Sauce Two';
+    font-style: normal;
+    font-weight: 900;
+    src: local('Open Sauce Two'), url('/vendor/fonts/family-1-28.woff') format('woff');
+}
+@font-face {
+    font-family: 'Open Sauce Sans';
+    font-style: italic;
+    font-weight: 900;
+    src: local('Open Sauce Sans'), url('/vendor/fonts/family-1-15.woff') format('woff');
+}
+@font-face {
+    font-family: 'Open Sauce Two';
+    font-style: italic;
+    font-weight: 900;
+    src: local('Open Sauce Two'), url('/vendor/fonts/family-1-29.woff') format('woff');
+}
+
+

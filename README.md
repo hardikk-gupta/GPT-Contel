@@ -1,56 +1,78 @@
-# Baaz — portfolio recreation
+# Baaz — original site mirror
 
-An independently written recreation of [bajkamalsingh.me](https://bajkamalsingh.me/), made at the site owner's request. The HTML, CSS, and interaction code are new; the public video, portrait, artwork, and fonts are reused to preserve the site's identity.
+This replaces the earlier approximation with the actual HTML, CSS, and interaction JavaScript served by [bajkamalsingh.me](https://bajkamalsingh.me/), at the site owner's request. It preserves the original intro, hero parallax and extruded text, magnetic cursor and ten-part spring trail, diary focus lens and book choreography, draggable stickers, cinematic navigation, expanding project dossiers, complete Delhi Metro journey and case studies, gallery artwork trail, and Tone.js sound design.
 
-## Preview
+`reference/site.html` is the captured source. `index.html` is generated from it. The original application markup, styles, and scripts are kept intact; this is now a source mirror rather than an independently approximated design.
 
-![Desktop recreation](docs/desktop-preview.png)
+## Run
 
-<details>
-<summary>Mobile preview</summary>
-
-![Mobile recreation](docs/mobile-preview.png)
-
-</details>
-
-## Run locally
-
-Use Node.js 24 (the validated runtime is 24.19.0).
+Use Node.js 24 and Python 3. The cloud environment has both.
 
 ```sh
 npm ci --cache /tmp/baaz-npm-cache
 npm run dev -- --port 5173
 ```
 
-Open the development server on port 5173. `npm run build` creates the deployable static site in `dist/`. `npm run preview -- --port 4173` serves that production build locally.
-
-## What works
-
-- Video hero, handwritten typography, introductory animation, and responsive fixed navigation.
-- Reading progress, smooth scrolling, and a book that opens as you scroll. The stickers and polaroid can be dragged.
-- Four project cards with accessible detail dialogs and metrics.
-- Delhi Metro entrance doors, five project stations, previous/next controls, arrow-key navigation, touch swiping, and project breakdowns.
-- Artwork cursor trail and an accessible twelve-piece artwork gallery for desktop and touch devices.
-- Email and social links, opt-in synthesised sound effects, and reduced-motion support.
-
-The original is the visual reference, not a copied application. The book artwork, opening choreography, case-study presentation, and sound synthesis are approximations rather than identical implementations. Assets and fonts are local; there are no runtime CDN dependencies or backend credentials.
-
-## Browser validation
+The development server serves the original page without adding a framework, hot-reload scripts, or changing its styles. It supports HTTP byte ranges for the video.
 
 ```sh
+npm run build
+npm run preview
+```
+
+The production output in `dist/` contains the same page and local files. The preview server uses port 4173. There is no bundling or minification that could change the original stylesheet's behavior.
+
+## Deploy on Vercel
+
+Import the repository with its root directory set to the repository root. The committed `vercel.json` selects the static build, runs `npm run build`, and publishes `dist/`, including `dist/index.html` at `/`. This avoids deploying only the asset directory without a homepage. After changing deployment configuration, use the URL of the new deployment; an older deployment URL retains its older build.
+
+## Verify the copy
+
+```sh
+npm run verify
 npm run smoke
 ```
 
-The smoke runner starts its own Vite server on port 5174 and exercises the desktop (1440 × 1000), mobile (390 × 844), and reduced-motion workflows. It checks meaningful interactions, dialog scrolling, asset responses, the video, and browser errors, and saves screenshots to the ignored `.artifacts/` directory.
+`verify` checks the complete application page against the captured original, allowing only the documented transport adaptations below. It also verifies SHA-256 checksums for all 170 downloaded scripts, stylesheets, fonts, and media resources. The original SHA-512 subresource-integrity attributes on GSAP, Lenis, and Tone.js are retained and were verified during download.
 
-It uses system Chromium at `/usr/bin/chromium` when present. Elsewhere, install Playwright's browser with `npx playwright install chromium`, or set `CHROMIUM_PATH` to an installed Chromium executable. Set `TEST_BASE_URL` to validate an already running development or production preview server instead.
+`smoke` runs an original-versus-local browser comparison. Both versions use the same captured upstream bytes, Chromium, viewport, media frame, virtual clock, and random seed. It exercises the actual interactions and records screenshots, image diffs, geometry, and results in the ignored `.artifacts/exact/` directory. The reference replay tests the captured upstream page; it does not claim that a later changed live page is identical.
 
-## Structure
+The runner uses `/usr/bin/chromium` when available. Elsewhere, run `npx playwright install chromium` or set `CHROMIUM_PATH`. Use `TEST_BASE_URL` to target an already running server:
 
-- `src/main.js`: page composition, animation, and interaction behavior.
-- `src/style.css`: typography, layout, effects, and responsive styles.
-- `src/data.js`: project descriptions, metrics, stations, and gallery entries.
-- `public/assets/`: the owner's public artwork and video, local fonts, and font licenses.
-- `scripts/smoke.cjs`: repeatable browser validation.
+```sh
+TEST_BASE_URL=http://127.0.0.1:4173 npm run smoke
+```
 
-The owner retains their artwork and video rights. Google Fonts licenses are retained in `public/assets/licenses/`. GSAP and Lenis retain their respective package licenses.
+## Documented transport adaptations
+
+- The original 92 referenced media responses are served from `public/assets/`, preserving their bytes and filenames.
+- Fonts and dependency scripts are served from `public/vendor/`. Remote font preconnects are removed because fonts are local.
+- Cloudflare's per-request anti-bot iframe injection is removed. It belongs to the original host's infrastructure. The original email-decoding script is retained locally so mail links work.
+- The live page references `lucide@0.435.0`, a version that does not exist in the npm registry and returns 404. Its application code already guards access to Lucide. The mirror omits that failing request and preserves the live site's absence of that icon library; it does not silently substitute a different version.
+
+Two upstream media URLs, `hs1.jpg` and `hs2.jpg`, return the site HTML rather than image data. Their captured responses are preserved, so these two broken image slots also match the source site.
+
+No original application effects are replaced with simplified versions. Browser rendering and the precise captured phase of an animation can still vary; screenshot difference measurements are reported rather than being described as universal pixel-perfect proof.
+
+## Refresh resource downloads
+
+```sh
+npm run mirror
+```
+
+This regenerates the local page and downloads the resources referenced by the committed source snapshot. It preserves TLS verification and the original subresource-integrity checks. To adopt a later version of the live website, update `reference/site.html` deliberately first, then rerun the command and the comparisons.
+
+The resource inventory, upstream URLs, checksums, and adaptations are in `reference/manifest.json`. Font licenses are retained in `public/assets/licenses/`; vendored scripts retain their original license headers. The owner retains the artwork and video rights.
+
+The committed [validation report](docs/validation.md) records the checked states and measured differences.
+
+## Preview captures
+
+![Desktop original-site mirror](docs/desktop-preview.png)
+
+<details>
+<summary>Mobile preview</summary>
+
+![Mobile original-site mirror](docs/mobile-preview.png)
+
+</details>

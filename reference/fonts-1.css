@@ -1,0 +1,254 @@
+@font-face {
+    font-family: 'Open Sauce One';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Open Sauce One'), url('https://fonts.cdnfonts.com/s/88496/OpenSauceOne-Regular.woff') format('woff');
+}
+@font-face {
+    font-family: 'Open Sauce One';
+    font-style: italic;
+    font-weight: 400;
+    src: local('Open Sauce One'), url('https://fonts.cdnfonts.com/s/88496/OpenSauceOne-Italic.woff') format('woff');
+}
+@font-face {
+    font-family: 'Open Sauce One';
+    font-style: normal;
+    font-weight: 300;
+    src: local('Open Sauce One'), url('https://fonts.cdnfonts.com/s/88496/OpenSauceOne-Light.woff') format('woff');
+}
+@font-face {
+    font-family: 'Open Sauce One';
+    font-style: italic;
+    font-weight: 300;
+    src: local('Open Sauce One'), url('https://fonts.cdnfonts.com/s/88496/OpenSauceOne-LightItalic.woff') format('woff');
+}
+@font-face {
+    font-family: 'Open Sauce One';
+    font-style: normal;
+    font-weight: 500;
+    src: local('Open Sauce One'), url('https://fonts.cdnfonts.com/s/88496/OpenSauceOne-Medium.woff') format('woff');
+}
+@font-face {
+    font-family: 'Open Sauce One';
+    font-style: italic;
+    font-weight: 500;
+    src: local('Open Sauce One'), url('https://fonts.cdnfonts.com/s/88496/OpenSauceOne-MediumItalic.woff') format('woff');
+}
+@font-face {
+    font-family: 'Open Sauce One';
+    font-style: normal;
+    font-weight: 600;
+    src: local('Open Sauce One'), url('https://fonts.cdnfonts.com/s/88496/OpenSauceOne-SemiBold.woff') format('woff');
+}
+@font-face {
+    font-family: 'Open Sauce One';
+    font-style: italic;
+    font-weight: 600;
+    src: local('Open Sauce One'), url('https://fonts.cdnfonts.com/s/88496/OpenSauceOne-SemiBoldItalic.woff') format('woff');
+}
+@font-face {
+    font-family: 'Open Sauce One';
+    font-style: normal;
+    font-weight: 700;
+    src: local('Open Sauce One'), url('https://fonts.cdnfonts.com/s/88496/OpenSauceOne-Bold.woff') format('woff');
+}
+@font-face {
+    font-family: 'Open Sauce One';
+    font-style: italic;
+    font-weight: 700;
+    src: local('Open Sauce One'), url('https://fonts.cdnfonts.com/s/88496/OpenSauceOne-BoldItalic.woff') format('woff');
+}
+@font-face {
+    font-family: 'Open Sauce One';
+    font-style: normal;
+    font-weight: 800;
+    src: local('Open Sauce One'), url('https://fonts.cdnfonts.com/s/88496/OpenSauceOne-ExtraBold.woff') format('woff');
+}
+@font-face {
+    font-family: 'Open Sauce One';
+    font-style: italic;
+    font-weight: 800;
+    src: local('Open Sauce One'), url('https://fonts.cdnfonts.com/s/88496/OpenSauceOne-ExtraBoldItalic.woff') format('woff');
+}
+@font-face {
+    font-family: 'Open Sauce One';
+    font-style: normal;
+    font-weight: 900;
+    src: local('Open Sauce One'), url('https://fonts.cdnfonts.com/s/88496/OpenSauceOne-Black.woff') format('woff');
+}
+@font-face {
+    font-family: 'Open Sauce One';
+    font-style: italic;
+    font-weight: 900;
+    src: local('Open Sauce One'), url('https://fonts.cdnfonts.com/s/88496/OpenSauceOne-BlackItalic.woff') format('woff');
+}
+@font-face {
+    font-family: 'Open Sauce Two';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Open Sauce Two'), url('https://fonts.cdnfonts.com/s/88496/OpenSauceTwo-Regular.woff') format('woff');
+}
+@font-face {
+    font-family: 'Open Sauce Sans';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Open Sauce Sans'), url('https://fonts.cdnfonts.com/s/88496/OpenSauceSans-Regular.woff') format('woff');
+}
+@font-face {
+    font-family: 'Open Sauce Two';
+    font-style: italic;
+    font-weight: 400;
+    src: local('Open Sauce Two'), url('https://fonts.cdnfonts.com/s/88496/OpenSauceTwo-Italic.woff') format('woff');
+}
+@font-face {
+    font-family: 'Open Sauce Sans';
+    font-style: italic;
+    font-weight: 400;
+    src: local('Open Sauce Sans'), url('https://fonts.cdnfonts.com/s/88496/OpenSauceSans-Italic.woff') format('woff');
+}
+@font-face {
+    font-family: 'Open Sauce Two';
+    font-style: normal;
+    font-weight: 300;
+    src: local('Open Sauce Two'), url('https://fonts.cdnfonts.com/s/88496/OpenSauceTwo-Light.woff') format('woff');
+}
+@font-face {
+    font-family: 'Open Sauce Sans';
+    font-style: normal;
+    font-weight: 300;
+    src: local('Open Sauce Sans'), url('https://fonts.cdnfonts.com/s/88496/OpenSauceSans-Light.woff') format('woff');
+}
+@font-face {
+    font-family: 'Open Sauce Two';
+    font-style: italic;
+    font-weight: 300;
+    src: local('Open Sauce Two'), url('https://fonts.cdnfonts.com/s/88496/OpenSauceTwo-LightItalic.woff') format('woff');
+}
+@font-face {
+    font-family: 'Open Sauce Sans';
+    font-style: italic;
+    font-weight: 300;
+    src: local('Open Sauce Sans'), url('https://fonts.cdnfonts.com/s/88496/OpenSauceSans-LightItalic.woff') format('woff');
+}
+@font-face {
+    font-family: 'Open Sauce Two';
+    font-style: normal;
+    font-weight: 500;
+    src: local('Open Sauce Two'), url('https://fonts.cdnfonts.com/s/88496/OpenSauceTwo-Medium.woff') format('woff');
+}
+@font-face {
+    font-family: 'Open Sauce Sans';
+    font-style: normal;
+    font-weight: 500;
+    src: local('Open Sauce Sans'), url('https://fonts.cdnfonts.com/s/88496/OpenSauceSans-Medium.woff') format('woff');
+}
+@font-face {
+    font-family: 'Open Sauce Two';
+    font-style: italic;
+    font-weight: 500;
+    src: local('Open Sauce Two'), url('https://fonts.cdnfonts.com/s/88496/OpenSauceTwo-MediumItalic.woff') format('woff');
+}
+@font-face {
+    font-family: 'Open Sauce Sans';
+    font-style: italic;
+    font-weight: 500;
+    src: local('Open Sauce Sans'), url('https://fonts.cdnfonts.com/s/88496/OpenSauceSans-MediumItalic.woff') format('woff');
+}
+@font-face {
+    font-family: 'Open Sauce Two';
+    font-style: normal;
+    font-weight: 600;
+    src: local('Open Sauce Two'), url('https://fonts.cdnfonts.com/s/88496/OpenSauceTwo-SemiBold.woff') format('woff');
+}
+@font-face {
+    font-family: 'Open Sauce Sans';
+    font-style: normal;
+    font-weight: 600;
+    src: local('Open Sauce Sans'), url('https://fonts.cdnfonts.com/s/88496/OpenSauceSans-SemiBold.woff') format('woff');
+}
+@font-face {
+    font-family: 'Open Sauce Two';
+    font-style: italic;
+    font-weight: 600;
+    src: local('Open Sauce Two'), url('https://fonts.cdnfonts.com/s/88496/OpenSauceTwo-SemiBoldItalic.woff') format('woff');
+}
+@font-face {
+    font-family: 'Open Sauce Sans';
+    font-style: italic;
+    font-weight: 600;
+    src: local('Open Sauce Sans'), url('https://fonts.cdnfonts.com/s/88496/OpenSauceSans-SemiBoldItalic.woff') format('woff');
+}
+@font-face {
+    font-family: 'Open Sauce Sans';
+    font-style: normal;
+    font-weight: 700;
+    src: local('Open Sauce Sans'), url('https://fonts.cdnfonts.com/s/88496/OpenSauceSans-Bold.woff') format('woff');
+}
+@font-face {
+    font-family: 'Open Sauce Two';
+    font-style: normal;
+    font-weight: 700;
+    src: local('Open Sauce Two'), url('https://fonts.cdnfonts.com/s/88496/OpenSauceTwo-Bold.woff') format('woff');
+}
+@font-face {
+    font-family: 'Open Sauce Sans';
+    font-style: italic;
+    font-weight: 700;
+    src: local('Open Sauce Sans'), url('https://fonts.cdnfonts.com/s/88496/OpenSauceSans-BoldItalic.woff') format('woff');
+}
+@font-face {
+    font-family: 'Open Sauce Two';
+    font-style: italic;
+    font-weight: 700;
+    src: local('Open Sauce Two'), url('https://fonts.cdnfonts.com/s/88496/OpenSauceTwo-BoldItalic.woff') format('woff');
+}
+@font-face {
+    font-family: 'Open Sauce Two';
+    font-style: normal;
+    font-weight: 800;
+    src: local('Open Sauce Two'), url('https://fonts.cdnfonts.com/s/88496/OpenSauceTwo-ExtraBold.woff') format('woff');
+}
+@font-face {
+    font-family: 'Open Sauce Sans';
+    font-style: normal;
+    font-weight: 800;
+    src: local('Open Sauce Sans'), url('https://fonts.cdnfonts.com/s/88496/OpenSauceSans-ExtraBold.woff') format('woff');
+}
+@font-face {
+    font-family: 'Open Sauce Two';
+    font-style: italic;
+    font-weight: 800;
+    src: local('Open Sauce Two'), url('https://fonts.cdnfonts.com/s/88496/OpenSauceTwo-ExtraBoldItalic.woff') format('woff');
+}
+@font-face {
+    font-family: 'Open Sauce Sans';
+    font-style: italic;
+    font-weight: 800;
+    src: local('Open Sauce Sans'), url('https://fonts.cdnfonts.com/s/88496/OpenSauceSans-ExtraBoldItalic.woff') format('woff');
+}
+@font-face {
+    font-family: 'Open Sauce Sans';
+    font-style: normal;
+    font-weight: 900;
+    src: local('Open Sauce Sans'), url('https://fonts.cdnfonts.com/s/88496/OpenSauceSans-Black.woff') format('woff');
+}
+@font-face {
+    font-family: 'Open Sauce Two';
+    font-style: normal;
+    font-weight: 900;
+    src: local('Open Sauce Two'), url('https://fonts.cdnfonts.com/s/88496/OpenSauceTwo-Black.woff') format('woff');
+}
+@font-face {
+    font-family: 'Open Sauce Sans';
+    font-style: italic;
+    font-weight: 900;
+    src: local('Open Sauce Sans'), url('https://fonts.cdnfonts.com/s/88496/OpenSauceSans-BlackItalic.woff') format('woff');
+}
+@font-face {
+    font-family: 'Open Sauce Two';
+    font-style: italic;
+    font-weight: 900;
+    src: local('Open Sauce Two'), url('https://fonts.cdnfonts.com/s/88496/OpenSauceTwo-BlackItalic.woff') format('woff');
+}
+
+

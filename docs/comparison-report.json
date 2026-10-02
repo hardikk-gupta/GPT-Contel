@@ -1,0 +1,681 @@
+{
+  "sourceUrl": "https://bajkamalsingh.me/",
+  "sourceSha256": "806283e37bcddd30b9f5408a174d03480613a9427265c2ad6d197846b7f03ae9",
+  "comparisons": [
+    {
+      "state": "desktop-intro",
+      "width": 1440,
+      "height": 1000,
+      "changedPixels": 0,
+      "differencePercent": 0,
+      "telemetry": [
+        {
+          "scroll": 0,
+          "scrollHeight": 25631,
+          "bookStart": 1000,
+          "bookEnd": 16002,
+          "bookProgress": 0
+        },
+        {
+          "scroll": 0,
+          "scrollHeight": 25631,
+          "bookStart": 1000,
+          "bookEnd": 16002,
+          "bookProgress": 0
+        }
+      ]
+    },
+    {
+      "state": "desktop-hero",
+      "width": 1440,
+      "height": 1000,
+      "changedPixels": 4124,
+      "differencePercent": 0.286389,
+      "telemetry": [
+        {
+          "scroll": 0,
+          "scrollHeight": 25631,
+          "bookStart": 1000,
+          "bookEnd": 16002,
+          "bookProgress": 0
+        },
+        {
+          "scroll": 0,
+          "scrollHeight": 25631,
+          "bookStart": 1000,
+          "bookEnd": 16002,
+          "bookProgress": 0
+        }
+      ]
+    },
+    {
+      "state": "desktop-hero-parallax",
+      "width": 1440,
+      "height": 1000,
+      "changedPixels": 3004,
+      "differencePercent": 0.208611,
+      "telemetry": [
+        {
+          "scroll": 0,
+          "scrollHeight": 25631,
+          "bookStart": 1000,
+          "bookEnd": 16002,
+          "bookProgress": 0
+        },
+        {
+          "scroll": 0,
+          "scrollHeight": 25631,
+          "bookStart": 1000,
+          "bookEnd": 16002,
+          "bookProgress": 0
+        }
+      ]
+    },
+    {
+      "state": "desktop-origin",
+      "width": 1440,
+      "height": 1000,
+      "changedPixels": 2922,
+      "differencePercent": 0.202917,
+      "telemetry": [
+        {
+          "scroll": 1400,
+          "scrollHeight": 25631,
+          "bookStart": 1000,
+          "bookEnd": 16002,
+          "bookProgress": 0.026663
+        },
+        {
+          "scroll": 1400,
+          "scrollHeight": 25631,
+          "bookStart": 1000,
+          "bookEnd": 16002,
+          "bookProgress": 0.026663
+        }
+      ]
+    },
+    {
+      "state": "desktop-book-open",
+      "width": 1440,
+      "height": 1000,
+      "changedPixels": 84099,
+      "differencePercent": 5.840208,
+      "telemetry": [
+        {
+          "scroll": 8201,
+          "scrollHeight": 25631,
+          "bookStart": 1000,
+          "bookEnd": 16002,
+          "bookProgress": 0.480003
+        },
+        {
+          "scroll": 8201,
+          "scrollHeight": 25631,
+          "bookStart": 1000,
+          "bookEnd": 16002,
+          "bookProgress": 0.480003
+        }
+      ]
+    },
+    {
+      "state": "desktop-projects",
+      "width": 1440,
+      "height": 1000,
+      "changedPixels": 2838,
+      "differencePercent": 0.197083,
+      "telemetry": [
+        {
+          "scroll": 17002,
+          "scrollHeight": 25631,
+          "bookStart": 1000,
+          "bookEnd": 16002,
+          "bookProgress": 1
+        },
+        {
+          "scroll": 17002,
+          "scrollHeight": 25631,
+          "bookStart": 1000,
+          "bookEnd": 16002,
+          "bookProgress": 1
+        }
+      ]
+    },
+    {
+      "state": "desktop-project-expanded",
+      "width": 1440,
+      "height": 1000,
+      "changedPixels": 12930,
+      "differencePercent": 0.897917,
+      "telemetry": [
+        {
+          "scroll": 17002,
+          "scrollHeight": 25631,
+          "bookStart": 1000,
+          "bookEnd": 16002,
+          "bookProgress": 1
+        },
+        {
+          "scroll": 17002,
+          "scrollHeight": 25631,
+          "bookStart": 1000,
+          "bookEnd": 16002,
+          "bookProgress": 1
+        }
+      ]
+    },
+    {
+      "state": "desktop-metro-gate",
+      "width": 1440,
+      "height": 1000,
+      "changedPixels": 3124,
+      "differencePercent": 0.216944,
+      "telemetry": [
+        {
+          "scroll": 18602,
+          "scrollHeight": 25631,
+          "bookStart": 1000,
+          "bookEnd": 16002,
+          "bookProgress": 1
+        },
+        {
+          "scroll": 18602,
+          "scrollHeight": 25631,
+          "bookStart": 1000,
+          "bookEnd": 16002,
+          "bookProgress": 1
+        }
+      ]
+    },
+    {
+      "state": "desktop-metro-origin",
+      "width": 1440,
+      "height": 1000,
+      "changedPixels": 3969,
+      "differencePercent": 0.275625,
+      "telemetry": [
+        {
+          "scroll": 18602,
+          "scrollHeight": 25631,
+          "bookStart": 1000,
+          "bookEnd": 16002,
+          "bookProgress": 1
+        },
+        {
+          "scroll": 18602,
+          "scrollHeight": 25631,
+          "bookStart": 1000,
+          "bookEnd": 16002,
+          "bookProgress": 1
+        }
+      ]
+    },
+    {
+      "state": "desktop-case-study-1",
+      "width": 1440,
+      "height": 1000,
+      "changedPixels": 3871,
+      "differencePercent": 0.268819,
+      "telemetry": [
+        {
+          "scroll": 18602,
+          "scrollHeight": 25631,
+          "bookStart": 1000,
+          "bookEnd": 16002,
+          "bookProgress": 1
+        },
+        {
+          "scroll": 18602,
+          "scrollHeight": 25631,
+          "bookStart": 1000,
+          "bookEnd": 16002,
+          "bookProgress": 1
+        }
+      ]
+    },
+    {
+      "state": "desktop-case-study-5",
+      "width": 1440,
+      "height": 1000,
+      "changedPixels": 3834,
+      "differencePercent": 0.26625,
+      "telemetry": [
+        {
+          "scroll": 18602,
+          "scrollHeight": 25631,
+          "bookStart": 1000,
+          "bookEnd": 16002,
+          "bookProgress": 1
+        },
+        {
+          "scroll": 18602,
+          "scrollHeight": 25631,
+          "bookStart": 1000,
+          "bookEnd": 16002,
+          "bookProgress": 1
+        }
+      ]
+    },
+    {
+      "state": "desktop-gallery",
+      "width": 1440,
+      "height": 1000,
+      "changedPixels": 3945,
+      "differencePercent": 0.273958,
+      "telemetry": [
+        {
+          "scroll": 20802,
+          "scrollHeight": 25631,
+          "bookStart": 1000,
+          "bookEnd": 16002,
+          "bookProgress": 1
+        },
+        {
+          "scroll": 20802,
+          "scrollHeight": 25631,
+          "bookStart": 1000,
+          "bookEnd": 16002,
+          "bookProgress": 1
+        }
+      ]
+    },
+    {
+      "state": "desktop-gallery-trail",
+      "width": 1440,
+      "height": 1000,
+      "changedPixels": 4064,
+      "differencePercent": 0.282222,
+      "telemetry": [
+        {
+          "scroll": 20802,
+          "scrollHeight": 25631,
+          "bookStart": 1000,
+          "bookEnd": 16002,
+          "bookProgress": 1
+        },
+        {
+          "scroll": 20802,
+          "scrollHeight": 25631,
+          "bookStart": 1000,
+          "bookEnd": 16002,
+          "bookProgress": 1
+        }
+      ]
+    },
+    {
+      "state": "desktop-contact",
+      "width": 1440,
+      "height": 1000,
+      "changedPixels": 4190,
+      "differencePercent": 0.290972,
+      "telemetry": [
+        {
+          "scroll": 24631,
+          "scrollHeight": 25631,
+          "bookStart": 1000,
+          "bookEnd": 16002,
+          "bookProgress": 1
+        },
+        {
+          "scroll": 24631,
+          "scrollHeight": 25631,
+          "bookStart": 1000,
+          "bookEnd": 16002,
+          "bookProgress": 1
+        }
+      ]
+    },
+    {
+      "state": "mobile-intro",
+      "width": 390,
+      "height": 844,
+      "changedPixels": 0,
+      "differencePercent": 0,
+      "telemetry": [
+        {
+          "scroll": 0,
+          "scrollHeight": 22431,
+          "bookStart": 844,
+          "bookEnd": 13506,
+          "bookProgress": 0
+        },
+        {
+          "scroll": 0,
+          "scrollHeight": 22431,
+          "bookStart": 844,
+          "bookEnd": 13506,
+          "bookProgress": 0
+        }
+      ]
+    },
+    {
+      "state": "mobile-hero",
+      "width": 390,
+      "height": 844,
+      "changedPixels": 0,
+      "differencePercent": 0,
+      "telemetry": [
+        {
+          "scroll": 0,
+          "scrollHeight": 22431,
+          "bookStart": 844,
+          "bookEnd": 13506,
+          "bookProgress": 0
+        },
+        {
+          "scroll": 0,
+          "scrollHeight": 22431,
+          "bookStart": 844,
+          "bookEnd": 13506,
+          "bookProgress": 0
+        }
+      ]
+    },
+    {
+      "state": "mobile-hero-parallax",
+      "width": 390,
+      "height": 844,
+      "changedPixels": 7,
+      "differencePercent": 0.002127,
+      "telemetry": [
+        {
+          "scroll": 0,
+          "scrollHeight": 22431,
+          "bookStart": 844,
+          "bookEnd": 13506,
+          "bookProgress": 0
+        },
+        {
+          "scroll": 0,
+          "scrollHeight": 22431,
+          "bookStart": 844,
+          "bookEnd": 13506,
+          "bookProgress": 0
+        }
+      ]
+    },
+    {
+      "state": "mobile-origin",
+      "width": 390,
+      "height": 844,
+      "changedPixels": 0,
+      "differencePercent": 0,
+      "telemetry": [
+        {
+          "scroll": 1182,
+          "scrollHeight": 22431,
+          "bookStart": 844,
+          "bookEnd": 13506,
+          "bookProgress": 0.026694
+        },
+        {
+          "scroll": 1182,
+          "scrollHeight": 22431,
+          "bookStart": 844,
+          "bookEnd": 13506,
+          "bookProgress": 0.026694
+        }
+      ]
+    },
+    {
+      "state": "mobile-book-open",
+      "width": 390,
+      "height": 844,
+      "changedPixels": 25859,
+      "differencePercent": 7.856058,
+      "telemetry": [
+        {
+          "scroll": 6922,
+          "scrollHeight": 22431,
+          "bookStart": 844,
+          "bookEnd": 13506,
+          "bookProgress": 0.48001900000000003
+        },
+        {
+          "scroll": 6922,
+          "scrollHeight": 22431,
+          "bookStart": 844,
+          "bookEnd": 13506,
+          "bookProgress": 0.48001900000000003
+        }
+      ]
+    },
+    {
+      "state": "mobile-projects",
+      "width": 390,
+      "height": 844,
+      "changedPixels": 0,
+      "differencePercent": 0,
+      "telemetry": [
+        {
+          "scroll": 14350,
+          "scrollHeight": 22431,
+          "bookStart": 844,
+          "bookEnd": 13506,
+          "bookProgress": 1
+        },
+        {
+          "scroll": 14350,
+          "scrollHeight": 22431,
+          "bookStart": 844,
+          "bookEnd": 13506,
+          "bookProgress": 1
+        }
+      ]
+    },
+    {
+      "state": "mobile-project-expanded",
+      "width": 390,
+      "height": 844,
+      "changedPixels": 5795,
+      "differencePercent": 1.760542,
+      "telemetry": [
+        {
+          "scroll": 14350,
+          "scrollHeight": 22431,
+          "bookStart": 844,
+          "bookEnd": 13506,
+          "bookProgress": 1
+        },
+        {
+          "scroll": 14350,
+          "scrollHeight": 22431,
+          "bookStart": 844,
+          "bookEnd": 13506,
+          "bookProgress": 1
+        }
+      ]
+    },
+    {
+      "state": "mobile-metro-gate",
+      "width": 390,
+      "height": 844,
+      "changedPixels": 0,
+      "differencePercent": 0,
+      "telemetry": [
+        {
+          "scroll": 15794,
+          "scrollHeight": 22431,
+          "bookStart": 844,
+          "bookEnd": 13506,
+          "bookProgress": 1
+        },
+        {
+          "scroll": 15794,
+          "scrollHeight": 22431,
+          "bookStart": 844,
+          "bookEnd": 13506,
+          "bookProgress": 1
+        }
+      ]
+    },
+    {
+      "state": "mobile-metro-origin",
+      "width": 390,
+      "height": 844,
+      "changedPixels": 0,
+      "differencePercent": 0,
+      "telemetry": [
+        {
+          "scroll": 15794,
+          "scrollHeight": 22431,
+          "bookStart": 844,
+          "bookEnd": 13506,
+          "bookProgress": 1
+        },
+        {
+          "scroll": 15794,
+          "scrollHeight": 22431,
+          "bookStart": 844,
+          "bookEnd": 13506,
+          "bookProgress": 1
+        }
+      ]
+    },
+    {
+      "state": "mobile-case-study-1",
+      "width": 390,
+      "height": 844,
+      "changedPixels": 0,
+      "differencePercent": 0,
+      "telemetry": [
+        {
+          "scroll": 15794,
+          "scrollHeight": 22431,
+          "bookStart": 844,
+          "bookEnd": 13506,
+          "bookProgress": 1
+        },
+        {
+          "scroll": 15794,
+          "scrollHeight": 22431,
+          "bookStart": 844,
+          "bookEnd": 13506,
+          "bookProgress": 1
+        }
+      ]
+    },
+    {
+      "state": "mobile-case-study-5",
+      "width": 390,
+      "height": 844,
+      "changedPixels": 0,
+      "differencePercent": 0,
+      "telemetry": [
+        {
+          "scroll": 15794,
+          "scrollHeight": 22431,
+          "bookStart": 844,
+          "bookEnd": 13506,
+          "bookProgress": 1
+        },
+        {
+          "scroll": 15794,
+          "scrollHeight": 22431,
+          "bookStart": 844,
+          "bookEnd": 13506,
+          "bookProgress": 1
+        }
+      ]
+    },
+    {
+      "state": "mobile-gallery",
+      "width": 390,
+      "height": 844,
+      "changedPixels": 0,
+      "differencePercent": 0,
+      "telemetry": [
+        {
+          "scroll": 17838,
+          "scrollHeight": 22431,
+          "bookStart": 844,
+          "bookEnd": 13506,
+          "bookProgress": 1
+        },
+        {
+          "scroll": 17838,
+          "scrollHeight": 22431,
+          "bookStart": 844,
+          "bookEnd": 13506,
+          "bookProgress": 1
+        }
+      ]
+    },
+    {
+      "state": "mobile-gallery-trail",
+      "width": 390,
+      "height": 844,
+      "changedPixels": 0,
+      "differencePercent": 0,
+      "telemetry": [
+        {
+          "scroll": 17838,
+          "scrollHeight": 22431,
+          "bookStart": 844,
+          "bookEnd": 13506,
+          "bookProgress": 1
+        },
+        {
+          "scroll": 17838,
+          "scrollHeight": 22431,
+          "bookStart": 844,
+          "bookEnd": 13506,
+          "bookProgress": 1
+        }
+      ]
+    },
+    {
+      "state": "mobile-contact",
+      "width": 390,
+      "height": 844,
+      "changedPixels": 0,
+      "differencePercent": 0,
+      "telemetry": [
+        {
+          "scroll": 21217,
+          "scrollHeight": 22431,
+          "bookStart": 844,
+          "bookEnd": 13506,
+          "bookProgress": 1
+        },
+        {
+          "scroll": 21217,
+          "scrollHeight": 22431,
+          "bookStart": 844,
+          "bookEnd": 13506,
+          "bookProgress": 1
+        }
+      ]
+    }
+  ],
+  "functionalChecks": [
+    "desktop: original hero, fonts, playable video, ten-part cursor, navigation",
+    "desktop: pointer-driven background parallax and 3D text",
+    "desktop: magnetic hero cursor",
+    "desktop: original diary/book scroll choreography",
+    "desktop: all four original in-place expanding project cards",
+    "desktop: original Metro doors and terminal",
+    "desktop: five complete Metro case studies, next/previous controls, step-out and return transitions",
+    "desktop: original gallery artwork trail",
+    "desktop: original contact links and email decoding",
+    "desktop: sound toggle enables and disables audio on a fresh hero",
+    "desktop: no unexpected runtime errors or missing resources",
+    "mobile: original hero, fonts, playable video, ten-part cursor, navigation",
+    "mobile: pointer-driven background parallax and 3D text",
+    "mobile: magnetic hero cursor",
+    "mobile: original diary/book scroll choreography",
+    "mobile: all four original in-place expanding project cards",
+    "mobile: original Metro doors and terminal",
+    "mobile: five complete Metro case studies, next/previous controls, step-out and return transitions",
+    "mobile: original mobile gallery without the desktop-only mouse trail",
+    "mobile: original contact links and email decoding",
+    "mobile: sound toggle enables and disables audio on a fresh hero",
+    "mobile: no unexpected runtime errors or missing resources"
+  ],
+  "expectedUpstreamFailures": [
+    {
+      "url": "https://cdn.jsdelivr.net/npm/lucide@0.435.0/dist/umd/lucide.min.js",
+      "status": 404,
+      "reason": "Upstream references an unpublished Lucide version; preserve the live page’s absent icon library."
+    }
+  ]
+}

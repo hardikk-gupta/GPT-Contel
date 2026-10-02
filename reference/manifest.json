@@ -1,0 +1,1228 @@
+{
+  "unavailable_scripts": [
+    {
+      "url": "https://cdn.jsdelivr.net/npm/lucide@0.435.0/dist/umd/lucide.min.js",
+      "status": 404,
+      "reason": "Upstream references an unpublished Lucide version; preserve the live page\u2019s absent icon library."
+    }
+  ],
+  "source_url": "https://bajkamalsingh.me/",
+  "source_sha256": "806283e37bcddd30b9f5408a174d03480613a9427265c2ad6d197846b7f03ae9",
+  "scripts": {
+    "https://cdn.tailwindcss.com": "/vendor/tailwind.js",
+    "https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/gsap.min.js": "/vendor/gsap.min.js",
+    "https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/ScrollTrigger.min.js": "/vendor/ScrollTrigger.min.js",
+    "https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/Draggable.min.js": "/vendor/Draggable.min.js",
+    "https://unpkg.com/@studio-freight/lenis@1.0.34/dist/lenis.min.js": "/vendor/lenis.min.js",
+    "https://cdnjs.cloudflare.com/ajax/libs/tone/14.8.49/Tone.js": "/vendor/Tone.js",
+    "/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js": "/vendor/email-decode.min.js"
+  },
+  "styles": {
+    "https://fonts.googleapis.com/css2?family=Gloria+Hallelujah&family=Schoolbell&family=Teko:wght@400..700&family=DM+Mono:wght@400;500;700&family=Dr+Sugiyama&family=Inter:wght@400;600;800;900&family=Bebas+Neue&family=DM+Sans:ital,wght@0,300;0,400;0,500;0,600;1,400&family=Lilita+One&display=swap": "/vendor/fonts-0.css",
+    "https://fonts.cdnfonts.com/css/open-sauce-one": "/vendor/fonts-1.css"
+  },
+  "media_count": 92,
+  "resources": [
+    {
+      "url": "https://bajkamalsingh.me/093b1d12-3f48-4208-a33c-0d3f9adfb345.jpeg",
+      "path": "public/assets/093b1d12-3f48-4208-a33c-0d3f9adfb345.jpeg",
+      "bytes": 281870,
+      "sha256": "86ffda2ba942a4409549d5131458cc575b85b8fa4fc9cc9eb3bd6fede1831abd",
+      "upstream_sha256": "86ffda2ba942a4409549d5131458cc575b85b8fa4fc9cc9eb3bd6fede1831abd"
+    },
+    {
+      "url": "https://bajkamalsingh.me/1%281%29.png",
+      "path": "public/assets/1(1).png",
+      "bytes": 3874482,
+      "sha256": "acac67770490ba353f463083455b325570904552c7c9e5fd76c2b77c03cb4e3b",
+      "upstream_sha256": "acac67770490ba353f463083455b325570904552c7c9e5fd76c2b77c03cb4e3b"
+    },
+    {
+      "url": "https://bajkamalsingh.me/1%282%29.png",
+      "path": "public/assets/1(2).png",
+      "bytes": 3038081,
+      "sha256": "fe63f7f4ea081ec6816101fe93f2854a096d85177454c78c7643af56151065dc",
+      "upstream_sha256": "fe63f7f4ea081ec6816101fe93f2854a096d85177454c78c7643af56151065dc"
+    },
+    {
+      "url": "https://bajkamalsingh.me/1.1.prajaktakoliibooklaunch%281%29.png",
+      "path": "public/assets/1.1.prajaktakoliibooklaunch(1).png",
+      "bytes": 2470651,
+      "sha256": "5deecfd8474f8f393312737156837552d21a873e56c9c05cfbb00461031862eb",
+      "upstream_sha256": "5deecfd8474f8f393312737156837552d21a873e56c9c05cfbb00461031862eb"
+    },
+    {
+      "url": "https://bajkamalsingh.me/1.1.priyanshumodiistandeeihistrionica.png",
+      "path": "public/assets/1.1.priyanshumodiistandeeihistrionica.png",
+      "bytes": 1458280,
+      "sha256": "8135326c43be6e988329b880b951d0136adf36705ed7969b7d79339d29887753",
+      "upstream_sha256": "8135326c43be6e988329b880b951d0136adf36705ed7969b7d79339d29887753"
+    },
+    {
+      "url": "https://bajkamalsingh.me/1.charades.png",
+      "path": "public/assets/1.charades.png",
+      "bytes": 2424321,
+      "sha256": "69e4d3e9378dc27558636d17af73b798a7062ced7a82bf9f0070d8f9ba41cae3",
+      "upstream_sha256": "69e4d3e9378dc27558636d17af73b798a7062ced7a82bf9f0070d8f9ba41cae3"
+    },
+    {
+      "url": "https://bajkamalsingh.me/1.jpg",
+      "path": "public/assets/1.jpg",
+      "bytes": 730147,
+      "sha256": "32bc2f2e33fdb1ff77f8304a326ea4c8fca4554eae24bb10061e20cc1ba140aa",
+      "upstream_sha256": "32bc2f2e33fdb1ff77f8304a326ea4c8fca4554eae24bb10061e20cc1ba140aa"
+    },
+    {
+      "url": "https://bajkamalsingh.me/1.mschficarousel.png",
+      "path": "public/assets/1.mschficarousel.png",
+      "bytes": 781121,
+      "sha256": "da5d6d0e79e6fd209baa60d6b5beff0701109cbe37e1252c26ea6ae7cfcc91f1",
+      "upstream_sha256": "da5d6d0e79e6fd209baa60d6b5beff0701109cbe37e1252c26ea6ae7cfcc91f1"
+    },
+    {
+      "url": "https://bajkamalsingh.me/1.png",
+      "path": "public/assets/1.png",
+      "bytes": 347452,
+      "sha256": "3bdbf97d1457b9fb536376f6560c7dfcee0a066e4655dfc58850ed605ec056a9",
+      "upstream_sha256": "3bdbf97d1457b9fb536376f6560c7dfcee0a066e4655dfc58850ed605ec056a9"
+    },
+    {
+      "url": "https://bajkamalsingh.me/1.stillrollin%E2%80%99.png",
+      "path": "public/assets/1.stillrollin\u2019.png",
+      "bytes": 332929,
+      "sha256": "a2316c52a041ec488eddc43c8437420de11fce39e7024ba66f47097ef90f4339",
+      "upstream_sha256": "a2316c52a041ec488eddc43c8437420de11fce39e7024ba66f47097ef90f4339"
+    },
+    {
+      "url": "https://bajkamalsingh.me/12.png",
+      "path": "public/assets/12.png",
+      "bytes": 347452,
+      "sha256": "3bdbf97d1457b9fb536376f6560c7dfcee0a066e4655dfc58850ed605ec056a9",
+      "upstream_sha256": "3bdbf97d1457b9fb536376f6560c7dfcee0a066e4655dfc58850ed605ec056a9"
+    },
+    {
+      "url": "https://bajkamalsingh.me/13.1.giveaway%281%29.jpg",
+      "path": "public/assets/13.1.giveaway(1).jpg",
+      "bytes": 386736,
+      "sha256": "9b085888e10c5f33587d751cf91479894c10807220b1dc5c7bdaf6892e0c5592",
+      "upstream_sha256": "9b085888e10c5f33587d751cf91479894c10807220b1dc5c7bdaf6892e0c5592"
+    },
+    {
+      "url": "https://bajkamalsingh.me/13.2.giveaway.jpg",
+      "path": "public/assets/13.2.giveaway.jpg",
+      "bytes": 371062,
+      "sha256": "ebf26da11c7585802a65e17172ff6b85985d2c3567568880441ae8d1d54b8bb7",
+      "upstream_sha256": "ebf26da11c7585802a65e17172ff6b85985d2c3567568880441ae8d1d54b8bb7"
+    },
+    {
+      "url": "https://bajkamalsingh.me/1778536504558493.mp4",
+      "path": "public/assets/1778536504558493.mp4",
+      "bytes": 19584710,
+      "sha256": "27ee0bbd06cc2b233ea2bc0e8087558e6f38313d318c2afc577eb7a5e0283053",
+      "upstream_sha256": "27ee0bbd06cc2b233ea2bc0e8087558e6f38313d318c2afc577eb7a5e0283053"
+    },
+    {
+      "url": "https://bajkamalsingh.me/19.jpg",
+      "path": "public/assets/19.jpg",
+      "bytes": 647158,
+      "sha256": "6b44d548ab268180b52550498a0f02cacb4a995c067f3ea752a30e15c13b6efb",
+      "upstream_sha256": "6b44d548ab268180b52550498a0f02cacb4a995c067f3ea752a30e15c13b6efb"
+    },
+    {
+      "url": "https://bajkamalsingh.me/1dad6dae-ed67-4d04-86a3-b5cfa019f38f.jpeg",
+      "path": "public/assets/1dad6dae-ed67-4d04-86a3-b5cfa019f38f.jpeg",
+      "bytes": 230510,
+      "sha256": "f79afde4a73147b6adbe507059287a258f768259fdbd0ee3c9a8a1448274bc85",
+      "upstream_sha256": "f79afde4a73147b6adbe507059287a258f768259fdbd0ee3c9a8a1448274bc85"
+    },
+    {
+      "url": "https://bajkamalsingh.me/2%282%29.jpg",
+      "path": "public/assets/2(2).jpg",
+      "bytes": 382827,
+      "sha256": "97b31abb4db37b22ecbfc59a39f9a0d6d807cc57fe00ffbd81aa527389a32a22",
+      "upstream_sha256": "97b31abb4db37b22ecbfc59a39f9a0d6d807cc57fe00ffbd81aa527389a32a22"
+    },
+    {
+      "url": "https://bajkamalsingh.me/2.beyondthehypei3-tiler.png",
+      "path": "public/assets/2.beyondthehypei3-tiler.png",
+      "bytes": 1128882,
+      "sha256": "5f5992bd8931f27eb4d57a940cf886258a4fe94f6dcd3feb426699cfac4f9156",
+      "upstream_sha256": "5f5992bd8931f27eb4d57a940cf886258a4fe94f6dcd3feb426699cfac4f9156"
+    },
+    {
+      "url": "https://bajkamalsingh.me/2.playstationicrossroads.png",
+      "path": "public/assets/2.playstationicrossroads.png",
+      "bytes": 3384622,
+      "sha256": "b2f422a920d4f16b1c31a52f3b9533cd38e72ca5467bcc9f6ed33a37a861bd1c",
+      "upstream_sha256": "b2f422a920d4f16b1c31a52f3b9533cd38e72ca5467bcc9f6ed33a37a861bd1c"
+    },
+    {
+      "url": "https://bajkamalsingh.me/2.png",
+      "path": "public/assets/2.png",
+      "bytes": 2325597,
+      "sha256": "2be550634679f3f240520e856728415122292577da0a2886a36a643bfa5ac3be",
+      "upstream_sha256": "2be550634679f3f240520e856728415122292577da0a2886a36a643bfa5ac3be"
+    },
+    {
+      "url": "https://bajkamalsingh.me/2.raahwarga.png",
+      "path": "public/assets/2.raahwarga.png",
+      "bytes": 473142,
+      "sha256": "415026689266113646893d814422ade9cf310e4edccbba55a5142bfd9ad00b97",
+      "upstream_sha256": "415026689266113646893d814422ade9cf310e4edccbba55a5142bfd9ad00b97"
+    },
+    {
+      "url": "https://bajkamalsingh.me/20.jpg",
+      "path": "public/assets/20.jpg",
+      "bytes": 600041,
+      "sha256": "31993ef2bf31b954abd478354b7cc6ca420173db2b5b99357c782a3995d8b043",
+      "upstream_sha256": "31993ef2bf31b954abd478354b7cc6ca420173db2b5b99357c782a3995d8b043"
+    },
+    {
+      "url": "https://bajkamalsingh.me/22.png",
+      "path": "public/assets/22.png",
+      "bytes": 2325597,
+      "sha256": "2be550634679f3f240520e856728415122292577da0a2886a36a643bfa5ac3be",
+      "upstream_sha256": "2be550634679f3f240520e856728415122292577da0a2886a36a643bfa5ac3be"
+    },
+    {
+      "url": "https://bajkamalsingh.me/23.jpg",
+      "path": "public/assets/23.jpg",
+      "bytes": 286288,
+      "sha256": "8784b63dac4c71790986c49440e305bccdf2eea848c80c2fa29d3331702cadd3",
+      "upstream_sha256": "8784b63dac4c71790986c49440e305bccdf2eea848c80c2fa29d3331702cadd3"
+    },
+    {
+      "url": "https://bajkamalsingh.me/24fb5243-7a38-45aa-88ff-e6742ee477bc.jpeg",
+      "path": "public/assets/24fb5243-7a38-45aa-88ff-e6742ee477bc.jpeg",
+      "bytes": 501767,
+      "sha256": "4f9b0d633a163e08547cd63cab435486383e2b7e23c3df6fd6198df7ec39fe28",
+      "upstream_sha256": "4f9b0d633a163e08547cd63cab435486383e2b7e23c3df6fd6198df7ec39fe28"
+    },
+    {
+      "url": "https://bajkamalsingh.me/262daae1-dd64-4200-9d3a-26310da58f34_1_105_c.jpeg",
+      "path": "public/assets/262daae1-dd64-4200-9d3a-26310da58f34_1_105_c.jpeg",
+      "bytes": 434272,
+      "sha256": "f3c98c10a756a1dbe00af88a0abfaec9e9e58322dbb37f52a19ee5b421ca81c7",
+      "upstream_sha256": "f3c98c10a756a1dbe00af88a0abfaec9e9e58322dbb37f52a19ee5b421ca81c7"
+    },
+    {
+      "url": "https://bajkamalsingh.me/2e3cb980-6afb-49e3-9f5d-7cea9943c17a.jpeg",
+      "path": "public/assets/2e3cb980-6afb-49e3-9f5d-7cea9943c17a.jpeg",
+      "bytes": 279017,
+      "sha256": "46b08af083c0037e9b8fcb176c41898655d4d7f83b8092204e5629806f79905d",
+      "upstream_sha256": "46b08af083c0037e9b8fcb176c41898655d4d7f83b8092204e5629806f79905d"
+    },
+    {
+      "url": "https://bajkamalsingh.me/3.evocusidramsoc.png",
+      "path": "public/assets/3.evocusidramsoc.png",
+      "bytes": 2080317,
+      "sha256": "5477d0ee4c1659fa00b58051bd2eeecb9cebb2b43805bfee03bc681baa288490",
+      "upstream_sha256": "5477d0ee4c1659fa00b58051bd2eeecb9cebb2b43805bfee03bc681baa288490"
+    },
+    {
+      "url": "https://bajkamalsingh.me/3.zomatoiassignmentpost.png",
+      "path": "public/assets/3.zomatoiassignmentpost.png",
+      "bytes": 1747474,
+      "sha256": "fcd7fd4abec2e64bb305a6d84faf486c8cdd992ddf391e0ffe78cadd06bd69dd",
+      "upstream_sha256": "fcd7fd4abec2e64bb305a6d84faf486c8cdd992ddf391e0ffe78cadd06bd69dd"
+    },
+    {
+      "url": "https://bajkamalsingh.me/4.sharktankpanelibizstreet.png",
+      "path": "public/assets/4.sharktankpanelibizstreet.png",
+      "bytes": 3285176,
+      "sha256": "3a57106690fd0fbadf12e4eeae74d3a6b2ef97ffa8ac666b0d3c4f9ebbcec8cb",
+      "upstream_sha256": "3a57106690fd0fbadf12e4eeae74d3a6b2ef97ffa8ac666b0d3c4f9ebbcec8cb"
+    },
+    {
+      "url": "https://bajkamalsingh.me/4031e24f-8d86-4a19-840d-a57f91107b10_1_201_a.jpeg",
+      "path": "public/assets/4031e24f-8d86-4a19-840d-a57f91107b10_1_201_a.jpeg",
+      "bytes": 389435,
+      "sha256": "ca8bb62218694a3f846cdff296b4ef1de47a6106638c9d37ef4d444b7ca9b1ee",
+      "upstream_sha256": "ca8bb62218694a3f846cdff296b4ef1de47a6106638c9d37ef4d444b7ca9b1ee"
+    },
+    {
+      "url": "https://bajkamalsingh.me/47a7f269-a9af-4309-a72e-d0120a24d8ea.jpeg",
+      "path": "public/assets/47a7f269-a9af-4309-a72e-d0120a24d8ea.jpeg",
+      "bytes": 708661,
+      "sha256": "94e17de7877ca71b056637d378ff3c968dfaef06dde20c7412a73dee62451f3c",
+      "upstream_sha256": "94e17de7877ca71b056637d378ff3c968dfaef06dde20c7412a73dee62451f3c"
+    },
+    {
+      "url": "https://bajkamalsingh.me/5.histrionicajudges.png",
+      "path": "public/assets/5.histrionicajudges.png",
+      "bytes": 3386131,
+      "sha256": "a79b08c867ca1466534e9873e79900f3b6bf8e60844299afd3786ff259eca1fc",
+      "upstream_sha256": "a79b08c867ca1466534e9873e79900f3b6bf8e60844299afd3786ff259eca1fc"
+    },
+    {
+      "url": "https://bajkamalsingh.me/5.mumbai-colorgrading.png",
+      "path": "public/assets/5.mumbai-colorgrading.png",
+      "bytes": 2831259,
+      "sha256": "aff65f67a0c98346b21abe685dd72f55e404fa6d6eec4b9d8f5779026e563a5b",
+      "upstream_sha256": "aff65f67a0c98346b21abe685dd72f55e404fa6d6eec4b9d8f5779026e563a5b"
+    },
+    {
+      "url": "https://bajkamalsingh.me/5d27e539-02e0-4930-be55-030e03e58d27.jpeg",
+      "path": "public/assets/5d27e539-02e0-4930-be55-030e03e58d27.jpeg",
+      "bytes": 848956,
+      "sha256": "ccd0c67486a049be4e6fc8cfc3c3c6b527580211eafc43997ed924fbea1e68af",
+      "upstream_sha256": "ccd0c67486a049be4e6fc8cfc3c3c6b527580211eafc43997ed924fbea1e68af"
+    },
+    {
+      "url": "https://bajkamalsingh.me/64740a27-7c2f-4e74-a84a-6717f5918fe9_1_105_c.jpeg",
+      "path": "public/assets/64740a27-7c2f-4e74-a84a-6717f5918fe9_1_105_c.jpeg",
+      "bytes": 588182,
+      "sha256": "db0752b91871e954945ce2e2785c1b8395da4394c8c1ff8a729e86d9eaea2990",
+      "upstream_sha256": "db0752b91871e954945ce2e2785c1b8395da4394c8c1ff8a729e86d9eaea2990"
+    },
+    {
+      "url": "https://bajkamalsingh.me/7.1.dusummervacation.png",
+      "path": "public/assets/7.1.dusummervacation.png",
+      "bytes": 2084513,
+      "sha256": "241aec94549f419d9d4d86c68419e585941057c07e506c77244a9b231b388f3c",
+      "upstream_sha256": "241aec94549f419d9d4d86c68419e585941057c07e506c77244a9b231b388f3c"
+    },
+    {
+      "url": "https://bajkamalsingh.me/7.2.dusummervacation.png",
+      "path": "public/assets/7.2.dusummervacation.png",
+      "bytes": 2094804,
+      "sha256": "42b234367fc7e2f9b0a440702bd2af2d03ad0bbea9ca98319ede3b3306c828b3",
+      "upstream_sha256": "42b234367fc7e2f9b0a440702bd2af2d03ad0bbea9ca98319ede3b3306c828b3"
+    },
+    {
+      "url": "https://bajkamalsingh.me/7.3.dusummervacation.png",
+      "path": "public/assets/7.3.dusummervacation.png",
+      "bytes": 2107226,
+      "sha256": "1e6160cad74ed4e361a18848abfa2d6488c6a89b789c5aa1c099da5e9a5e7e75",
+      "upstream_sha256": "1e6160cad74ed4e361a18848abfa2d6488c6a89b789c5aa1c099da5e9a5e7e75"
+    },
+    {
+      "url": "https://bajkamalsingh.me/7.4.dusummervacation.png",
+      "path": "public/assets/7.4.dusummervacation.png",
+      "bytes": 1658834,
+      "sha256": "95c3b666c4e465cdae57bfb891c3b2d9a174d80a2be58447f30c1c2e4f310bf9",
+      "upstream_sha256": "95c3b666c4e465cdae57bfb891c3b2d9a174d80a2be58447f30c1c2e4f310bf9"
+    },
+    {
+      "url": "https://bajkamalsingh.me/7.festiveseasonibrandsicarousel.png",
+      "path": "public/assets/7.festiveseasonibrandsicarousel.png",
+      "bytes": 867392,
+      "sha256": "d2e77e33833923251340da337c61cebacfe826a99e1b46f848005dda30173b38",
+      "upstream_sha256": "d2e77e33833923251340da337c61cebacfe826a99e1b46f848005dda30173b38"
+    },
+    {
+      "url": "https://bajkamalsingh.me/7.jpeg",
+      "path": "public/assets/7.jpeg",
+      "bytes": 990551,
+      "sha256": "4e68f57077ae8d29a83a1cbcf17a4f691b1267ee46b53cdb23db7ee6dbc155d1",
+      "upstream_sha256": "4e68f57077ae8d29a83a1cbcf17a4f691b1267ee46b53cdb23db7ee6dbc155d1"
+    },
+    {
+      "url": "https://bajkamalsingh.me/8.debunkingmyths.png",
+      "path": "public/assets/8.debunkingmyths.png",
+      "bytes": 2472632,
+      "sha256": "2135451962ef9dc3d5defc113667cf9c851ded33eddd09b861a1eadb98dcffe7",
+      "upstream_sha256": "2135451962ef9dc3d5defc113667cf9c851ded33eddd09b861a1eadb98dcffe7"
+    },
+    {
+      "url": "https://bajkamalsingh.me/9.invitationithefinalhand.png",
+      "path": "public/assets/9.invitationithefinalhand.png",
+      "bytes": 2264982,
+      "sha256": "a9779fddf81381e31c9948ec040f8cd21bd39c9960225f9c492a71e9f612aa34",
+      "upstream_sha256": "a9779fddf81381e31c9948ec040f8cd21bd39c9960225f9c492a71e9f612aa34"
+    },
+    {
+      "url": "https://bajkamalsingh.me/ad_breakup.jpg",
+      "path": "public/assets/ad_breakup.jpg",
+      "bytes": 508090,
+      "sha256": "85a0ec9a540ad152d25fcdc7ae9070542977c5505f7001f13cead4594e37df35",
+      "upstream_sha256": "85a0ec9a540ad152d25fcdc7ae9070542977c5505f7001f13cead4594e37df35"
+    },
+    {
+      "url": "https://bajkamalsingh.me/ammm.png",
+      "path": "public/assets/ammm.png",
+      "bytes": 3441386,
+      "sha256": "bdbbbc5708cc9f4f271eef3c35c8d4d9a0bb4ce0cc6f52289bb41432c53e6805",
+      "upstream_sha256": "bdbbbc5708cc9f4f271eef3c35c8d4d9a0bb4ce0cc6f52289bb41432c53e6805"
+    },
+    {
+      "url": "https://bajkamalsingh.me/catalog_grid.jpg",
+      "path": "public/assets/catalog_grid.jpg",
+      "bytes": 436967,
+      "sha256": "4b3f700d3204dea5007769f0fcae21d9022d7a509c45086aaea7b8c8538968f9",
+      "upstream_sha256": "4b3f700d3204dea5007769f0fcae21d9022d7a509c45086aaea7b8c8538968f9"
+    },
+    {
+      "url": "https://bajkamalsingh.me/chance.jpg",
+      "path": "public/assets/chance.jpg",
+      "bytes": 302963,
+      "sha256": "55d57600c15b37a049e95a494637c228ee6b5ee42c962c2a34bd4a7fa4b03797",
+      "upstream_sha256": "55d57600c15b37a049e95a494637c228ee6b5ee42c962c2a34bd4a7fa4b03797"
+    },
+    {
+      "url": "https://bajkamalsingh.me/d95bb0c2-546c-494c-b40f-0e47506f1a4c.jpeg",
+      "path": "public/assets/d95bb0c2-546c-494c-b40f-0e47506f1a4c.jpeg",
+      "bytes": 276963,
+      "sha256": "33cae43228b4744881938f3e1d2991990b983328051893937b1a3c2105e48f11",
+      "upstream_sha256": "33cae43228b4744881938f3e1d2991990b983328051893937b1a3c2105e48f11"
+    },
+    {
+      "url": "https://bajkamalsingh.me/de57b5f1-9795-4d6d-a063-062ef8a4ee59.jpeg",
+      "path": "public/assets/de57b5f1-9795-4d6d-a063-062ef8a4ee59.jpeg",
+      "bytes": 354575,
+      "sha256": "d81383825ddf6e4ea196671fb6c85730c8ed7e5d40de8de5391d2cf78976f529",
+      "upstream_sha256": "d81383825ddf6e4ea196671fb6c85730c8ed7e5d40de8de5391d2cf78976f529"
+    },
+    {
+      "url": "https://bajkamalsingh.me/diarypic.png",
+      "path": "public/assets/diarypic.png",
+      "bytes": 1766960,
+      "sha256": "fff226e76d821bcb49e33fe7554db64e60eea388a9adfe922eab3d5cedbb3086",
+      "upstream_sha256": "fff226e76d821bcb49e33fe7554db64e60eea388a9adfe922eab3d5cedbb3086"
+    },
+    {
+      "url": "https://bajkamalsingh.me/dramlogo.svg",
+      "path": "public/assets/dramlogo.svg",
+      "bytes": 759212,
+      "sha256": "87b7032704d3c4c5e61a74e89c3cdcbf6fdec95f4762de39243b95417cc87ea8",
+      "upstream_sha256": "87b7032704d3c4c5e61a74e89c3cdcbf6fdec95f4762de39243b95417cc87ea8"
+    },
+    {
+      "url": "https://bajkamalsingh.me/e69df499-dd26-4d02-9eb8-9b7bd40e0505.jpeg",
+      "path": "public/assets/e69df499-dd26-4d02-9eb8-9b7bd40e0505.jpeg",
+      "bytes": 325801,
+      "sha256": "16e00c9b061da1eabcca71caef7a3798aaae617d9d5d3f9458f8c4e02ca28833",
+      "upstream_sha256": "16e00c9b061da1eabcca71caef7a3798aaae617d9d5d3f9458f8c4e02ca28833"
+    },
+    {
+      "url": "https://bajkamalsingh.me/ep1.jpg",
+      "path": "public/assets/ep1.jpg",
+      "bytes": 208388,
+      "sha256": "29718c07ecbeedb1dab426a14d00328869195e101dfa40eaf93f4968fb0fc9a1",
+      "upstream_sha256": "29718c07ecbeedb1dab426a14d00328869195e101dfa40eaf93f4968fb0fc9a1"
+    },
+    {
+      "url": "https://bajkamalsingh.me/ep2.jpg",
+      "path": "public/assets/ep2.jpg",
+      "bytes": 263968,
+      "sha256": "ded0c8254c0dbaa8aaed5fc5adfa1594071c19fca4823284f829a70caa1d85d2",
+      "upstream_sha256": "ded0c8254c0dbaa8aaed5fc5adfa1594071c19fca4823284f829a70caa1d85d2"
+    },
+    {
+      "url": "https://bajkamalsingh.me/ep3.jpg",
+      "path": "public/assets/ep3.jpg",
+      "bytes": 349365,
+      "sha256": "1e5357258c93794eeb52772ba23071328a2b75cc932c0d433ed55f13cd0b0187",
+      "upstream_sha256": "1e5357258c93794eeb52772ba23071328a2b75cc932c0d433ed55f13cd0b0187"
+    },
+    {
+      "url": "https://bajkamalsingh.me/ep4.jpg",
+      "path": "public/assets/ep4.jpg",
+      "bytes": 375708,
+      "sha256": "e665e3cf79c14dc04ce74c2c24e7372db57afe81bc0558305ed90b70ebdcefeb",
+      "upstream_sha256": "e665e3cf79c14dc04ce74c2c24e7372db57afe81bc0558305ed90b70ebdcefeb"
+    },
+    {
+      "url": "https://bajkamalsingh.me/ep5.jpg",
+      "path": "public/assets/ep5.jpg",
+      "bytes": 227297,
+      "sha256": "a61a865f65ef619b2348a7be4fab93fcd5269af459708994b6fd65942e8e2a77",
+      "upstream_sha256": "a61a865f65ef619b2348a7be4fab93fcd5269af459708994b6fd65942e8e2a77"
+    },
+    {
+      "url": "https://bajkamalsingh.me/f64a91b4-1d10-4ea2-b8fd-6b5ca2825475_1_105_c.jpeg",
+      "path": "public/assets/f64a91b4-1d10-4ea2-b8fd-6b5ca2825475_1_105_c.jpeg",
+      "bytes": 217438,
+      "sha256": "5a8b36307016323ea4f5c57119fb0a61dcf8e308a6459cd7b1da06cb08944f31",
+      "upstream_sha256": "5a8b36307016323ea4f5c57119fb0a61dcf8e308a6459cd7b1da06cb08944f31"
+    },
+    {
+      "url": "https://bajkamalsingh.me/fukcaverageposter.jpg",
+      "path": "public/assets/fukcaverageposter.jpg",
+      "bytes": 769061,
+      "sha256": "2a9c963ba6574763b1831a2366f5d300185daa199651aa1c6ac5dd72db7870da",
+      "upstream_sha256": "2a9c963ba6574763b1831a2366f5d300185daa199651aa1c6ac5dd72db7870da"
+    },
+    {
+      "url": "https://bajkamalsingh.me/hotstarlogo.svg",
+      "path": "public/assets/hotstarlogo.svg",
+      "bytes": 393774,
+      "sha256": "1f67d7c984ccd002a25c225da98379057028dfab29dbe05f6cc0c6887fa603c8",
+      "upstream_sha256": "1f67d7c984ccd002a25c225da98379057028dfab29dbe05f6cc0c6887fa603c8"
+    },
+    {
+      "url": "https://bajkamalsingh.me/hs1.jpg",
+      "path": "public/assets/hs1.jpg",
+      "bytes": 519382,
+      "sha256": "27f735921de1c6584524c2b18238bc813c1ec72c6febca249e7cc9a1a8c154de",
+      "upstream_sha256": "27f735921de1c6584524c2b18238bc813c1ec72c6febca249e7cc9a1a8c154de"
+    },
+    {
+      "url": "https://bajkamalsingh.me/hs2.jpg",
+      "path": "public/assets/hs2.jpg",
+      "bytes": 519382,
+      "sha256": "94523d280847ccacdc248cd3a87022dd1c4128e4d60ea22889206148e6974f39",
+      "upstream_sha256": "94523d280847ccacdc248cd3a87022dd1c4128e4d60ea22889206148e6974f39"
+    },
+    {
+      "url": "https://bajkamalsingh.me/hs3.PNG",
+      "path": "public/assets/hs3.PNG",
+      "bytes": 2404657,
+      "sha256": "34815e94824f0c2c690756936a49f078a5acd7be525452d69eb6da5a20b7945b",
+      "upstream_sha256": "34815e94824f0c2c690756936a49f078a5acd7be525452d69eb6da5a20b7945b"
+    },
+    {
+      "url": "https://bajkamalsingh.me/hs4.PNG",
+      "path": "public/assets/hs4.PNG",
+      "bytes": 3151091,
+      "sha256": "128a00bbdedf1df428942d70a041b4baaa6ee85fdae80b4a3cca4e5304977bbd",
+      "upstream_sha256": "128a00bbdedf1df428942d70a041b4baaa6ee85fdae80b4a3cca4e5304977bbd"
+    },
+    {
+      "url": "https://bajkamalsingh.me/hs5.PNG",
+      "path": "public/assets/hs5.PNG",
+      "bytes": 3036398,
+      "sha256": "768c812ac6f5bdd766231e3a7ceaeff6d9cdf37cd3027feb9aac2e0bbb9fdf52",
+      "upstream_sha256": "768c812ac6f5bdd766231e3a7ceaeff6d9cdf37cd3027feb9aac2e0bbb9fdf52"
+    },
+    {
+      "url": "https://bajkamalsingh.me/hs6.PNG",
+      "path": "public/assets/hs6.PNG",
+      "bytes": 3319292,
+      "sha256": "b1dee6df4030d83728208e96da8dac0d2ea03a0b993be38631ac4209f4ae0113",
+      "upstream_sha256": "b1dee6df4030d83728208e96da8dac0d2ea03a0b993be38631ac4209f4ae0113"
+    },
+    {
+      "url": "https://bajkamalsingh.me/ksm1.png",
+      "path": "public/assets/ksm1.png",
+      "bytes": 695625,
+      "sha256": "645aabe1c1b55dd4fa7046f48900d6d1a7fe2033185669c8f71e79033fc5a15e",
+      "upstream_sha256": "645aabe1c1b55dd4fa7046f48900d6d1a7fe2033185669c8f71e79033fc5a15e"
+    },
+    {
+      "url": "https://bajkamalsingh.me/ksm2.png",
+      "path": "public/assets/ksm2.png",
+      "bytes": 1136795,
+      "sha256": "3587bb54533510e1199b989277dfd4a965a5e55b08f69f04b2fc5ec1b7df4d8b",
+      "upstream_sha256": "3587bb54533510e1199b989277dfd4a965a5e55b08f69f04b2fc5ec1b7df4d8b"
+    },
+    {
+      "url": "https://bajkamalsingh.me/ksm3.png",
+      "path": "public/assets/ksm3.png",
+      "bytes": 842770,
+      "sha256": "c2f569d3823e92387a6b64d6d8f6fc5a43e490c39e3929a1481f942ae8e9ec75",
+      "upstream_sha256": "c2f569d3823e92387a6b64d6d8f6fc5a43e490c39e3929a1481f942ae8e9ec75"
+    },
+    {
+      "url": "https://bajkamalsingh.me/lalalalalala.png",
+      "path": "public/assets/lalalalalala.png",
+      "bytes": 860486,
+      "sha256": "3c917a2b5d51bdf13743ee49168536ebb7d14a842e9ce6a53b11b55082a13f25",
+      "upstream_sha256": "3c917a2b5d51bdf13743ee49168536ebb7d14a842e9ce6a53b11b55082a13f25"
+    },
+    {
+      "url": "https://bajkamalsingh.me/metachart.png",
+      "path": "public/assets/metachart.png",
+      "bytes": 162095,
+      "sha256": "01bf2cbdc539edc28a571a762488241581e674a56c9feb3d2110bc7dbc846615",
+      "upstream_sha256": "01bf2cbdc539edc28a571a762488241581e674a56c9feb3d2110bc7dbc846615"
+    },
+    {
+      "url": "https://bajkamalsingh.me/mischiefmanagediidraft1.png",
+      "path": "public/assets/mischiefmanagediidraft1.png",
+      "bytes": 441530,
+      "sha256": "fe3b32025864d7ac38868c36d188e67b643f7f9bc7f8bd27331e600260ba5b23",
+      "upstream_sha256": "fe3b32025864d7ac38868c36d188e67b643f7f9bc7f8bd27331e600260ba5b23"
+    },
+    {
+      "url": "https://bajkamalsingh.me/personality_grid.jpg",
+      "path": "public/assets/personality_grid.jpg",
+      "bytes": 498860,
+      "sha256": "1b6683f33a699f7a2f790f6593c86af496581a23f5476814f672dbf277b32fa4",
+      "upstream_sha256": "1b6683f33a699f7a2f790f6593c86af496581a23f5476814f672dbf277b32fa4"
+    },
+    {
+      "url": "https://bajkamalsingh.me/polaroidimg.PNG",
+      "path": "public/assets/polaroidimg.PNG",
+      "bytes": 3559478,
+      "sha256": "405cb659992554d4e3abfa23d71a0bdc5d105d4f34863a5dc90b3bf02d059571",
+      "upstream_sha256": "405cb659992554d4e3abfa23d71a0bdc5d105d4f34863a5dc90b3bf02d059571"
+    },
+    {
+      "url": "https://bajkamalsingh.me/rntl..png",
+      "path": "public/assets/rntl..png",
+      "bytes": 2908669,
+      "sha256": "01e2153c76a05b993345df5c1061c9ff263192e1d68cd3c275f5261cdf60a281",
+      "upstream_sha256": "01e2153c76a05b993345df5c1061c9ff263192e1d68cd3c275f5261cdf60a281"
+    },
+    {
+      "url": "https://bajkamalsingh.me/rntllogo.svg",
+      "path": "public/assets/rntllogo.svg",
+      "bytes": 599153,
+      "sha256": "3bb33351836934dc60fccf848bc767d6ce920992bd0ef39efbb1f953a5b493b3",
+      "upstream_sha256": "3bb33351836934dc60fccf848bc767d6ce920992bd0ef39efbb1f953a5b493b3"
+    },
+    {
+      "url": "https://bajkamalsingh.me/rntlspotlightseries.png",
+      "path": "public/assets/rntlspotlightseries.png",
+      "bytes": 465308,
+      "sha256": "53356cf663f7da14adeb31737e3da11a7dc61f76aef36cb604d203968a39817c",
+      "upstream_sha256": "53356cf663f7da14adeb31737e3da11a7dc61f76aef36cb604d203968a39817c"
+    },
+    {
+      "url": "https://bajkamalsingh.me/safarnama.png",
+      "path": "public/assets/safarnama.png",
+      "bytes": 2550640,
+      "sha256": "dd3b4a86ac30503d4f14fa1c10293905fdea44422d1de257f71a9e55c0e1ba11",
+      "upstream_sha256": "dd3b4a86ac30503d4f14fa1c10293905fdea44422d1de257f71a9e55c0e1ba11"
+    },
+    {
+      "url": "https://bajkamalsingh.me/sinskarilogo.svg",
+      "path": "public/assets/sinskarilogo.svg",
+      "bytes": 46133,
+      "sha256": "a7243f0ced86a0e000dc95e19bc71611edfcf1089a59e964d4c3b11bd052d83a",
+      "upstream_sha256": "a7243f0ced86a0e000dc95e19bc71611edfcf1089a59e964d4c3b11bd052d83a"
+    },
+    {
+      "url": "https://bajkamalsingh.me/tds1.png",
+      "path": "public/assets/tds1.png",
+      "bytes": 3479167,
+      "sha256": "f0348d5ffb69f5b564b624758e762f1820a0e9bc251435918661ef445aa2b672",
+      "upstream_sha256": "f0348d5ffb69f5b564b624758e762f1820a0e9bc251435918661ef445aa2b672"
+    },
+    {
+      "url": "https://bajkamalsingh.me/tds2.png",
+      "path": "public/assets/tds2.png",
+      "bytes": 2519246,
+      "sha256": "51af7ad25b4edbbdd3740fefba98789ecedf1259437f195adbc4f87f0a41a9e7",
+      "upstream_sha256": "51af7ad25b4edbbdd3740fefba98789ecedf1259437f195adbc4f87f0a41a9e7"
+    },
+    {
+      "url": "https://bajkamalsingh.me/tds3.png",
+      "path": "public/assets/tds3.png",
+      "bytes": 2617058,
+      "sha256": "be13e4790f0922b20eeee712e2f01b69ece7558896af074adc3f34418b50f12f",
+      "upstream_sha256": "be13e4790f0922b20eeee712e2f01b69ece7558896af074adc3f34418b50f12f"
+    },
+    {
+      "url": "https://bajkamalsingh.me/tds4.png",
+      "path": "public/assets/tds4.png",
+      "bytes": 3222282,
+      "sha256": "ee3dccdc0e1869ea8247823369efe1775017994568f1c30f9cd1178cec138b8e",
+      "upstream_sha256": "ee3dccdc0e1869ea8247823369efe1775017994568f1c30f9cd1178cec138b8e"
+    },
+    {
+      "url": "https://bajkamalsingh.me/tdsr1.png",
+      "path": "public/assets/tdsr1.png",
+      "bytes": 2275861,
+      "sha256": "0531f030b0b50304dfd82959bc21b49cd026a04f5b0712a4cc6cdbeb8fc7b1d0",
+      "upstream_sha256": "0531f030b0b50304dfd82959bc21b49cd026a04f5b0712a4cc6cdbeb8fc7b1d0"
+    },
+    {
+      "url": "https://bajkamalsingh.me/tdsr2.png",
+      "path": "public/assets/tdsr2.png",
+      "bytes": 2312413,
+      "sha256": "316a3eab71962cc79feb95c40891ac16009806ab483bc089d66f8f0d30605736",
+      "upstream_sha256": "316a3eab71962cc79feb95c40891ac16009806ab483bc089d66f8f0d30605736"
+    },
+    {
+      "url": "https://bajkamalsingh.me/tdsr3.png",
+      "path": "public/assets/tdsr3.png",
+      "bytes": 2731094,
+      "sha256": "9b7e5279a2f3ed441a6ca7d672faa175d9d4270685edd7d12b92c35227d354ca",
+      "upstream_sha256": "9b7e5279a2f3ed441a6ca7d672faa175d9d4270685edd7d12b92c35227d354ca"
+    },
+    {
+      "url": "https://bajkamalsingh.me/tdsr4.png",
+      "path": "public/assets/tdsr4.png",
+      "bytes": 2054834,
+      "sha256": "53d9f7651c684f1352bc7174fb424a0dde8e52fd1faf42b7d6c062934f1d6bd2",
+      "upstream_sha256": "53d9f7651c684f1352bc7174fb424a0dde8e52fd1faf42b7d6c062934f1d6bd2"
+    },
+    {
+      "url": "https://bajkamalsingh.me/tdsr5.png",
+      "path": "public/assets/tdsr5.png",
+      "bytes": 2946786,
+      "sha256": "bf1b3b30422bf620fb9bbd119c9168c1c144af7efbaa9779a87363b912b4c43e",
+      "upstream_sha256": "bf1b3b30422bf620fb9bbd119c9168c1c144af7efbaa9779a87363b912b4c43e"
+    },
+    {
+      "url": "https://bajkamalsingh.me/tdsr6.png",
+      "path": "public/assets/tdsr6.png",
+      "bytes": 3082873,
+      "sha256": "09c05f1580956a5c14bd6a6f3e783f7d77c1d4b57f016f839772fb787d3b3667",
+      "upstream_sha256": "09c05f1580956a5c14bd6a6f3e783f7d77c1d4b57f016f839772fb787d3b3667"
+    },
+    {
+      "url": "https://bajkamalsingh.me/valentinespecialpost.png",
+      "path": "public/assets/valentinespecialpost.png",
+      "bytes": 2785974,
+      "sha256": "4cb09bd110da29bcd4126848141558e8a7823c0c9c7ff166d04cbb76a9b5c58f",
+      "upstream_sha256": "4cb09bd110da29bcd4126848141558e8a7823c0c9c7ff166d04cbb76a9b5c58f"
+    },
+    {
+      "url": "https://bajkamalsingh.me/xkmnk.png",
+      "path": "public/assets/xkmnk.png",
+      "bytes": 1850218,
+      "sha256": "c13f312f77a6e0356bb657b81ad8aa7788351e60398d996361185edf8490717c",
+      "upstream_sha256": "c13f312f77a6e0356bb657b81ad8aa7788351e60398d996361185edf8490717c"
+    },
+    {
+      "url": "https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/Draggable.min.js",
+      "path": "public/vendor/Draggable.min.js",
+      "bytes": 35412,
+      "sha256": "8b382418b7ecb287f05b500906940b8699358f7d0eafc7c6cecc571bfd40fe72",
+      "integrity": "sha512-S6SXKUZ11xkCoD/UuhdXG4B4iiCXng+xW2KCx0lgfQqmdqtjqGgm4WChdYIhO1F/CmH21vnkSUvPEgXNgDwkjg==",
+      "upstream_sha256": "8b382418b7ecb287f05b500906940b8699358f7d0eafc7c6cecc571bfd40fe72"
+    },
+    {
+      "url": "https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/ScrollTrigger.min.js",
+      "path": "public/vendor/ScrollTrigger.min.js",
+      "bytes": 42667,
+      "sha256": "65f6c13748b0c8d8f9eabd0373a130ac293b3f16bf34aaa946d953980372b932",
+      "integrity": "sha512-Ic9xkERjyZ1xgJ5svx3y0u3xrvfT/uPkV99LBwe68xjy/mGtO+4eURHZBW2xW4SZbFrF1Tf090XqB+EVgXnVjw==",
+      "upstream_sha256": "65f6c13748b0c8d8f9eabd0373a130ac293b3f16bf34aaa946d953980372b932"
+    },
+    {
+      "url": "https://cdnjs.cloudflare.com/ajax/libs/tone/14.8.49/Tone.js",
+      "path": "public/vendor/Tone.js",
+      "bytes": 349169,
+      "sha256": "1261cdd3331d826237e7b0b954b5ed7d2381c8df4331d2018acea8c7a64a9a7b",
+      "integrity": "sha512-jduERlz7En1IUZR54bqzpNI64AbffZWR//KJgF71SJ8D8/liKFZ+s1RxmUmB+bhCnIfzebdZsULwOrbVB5f3nQ==",
+      "upstream_sha256": "1261cdd3331d826237e7b0b954b5ed7d2381c8df4331d2018acea8c7a64a9a7b"
+    },
+    {
+      "url": "https://bajkamalsingh.me/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js",
+      "path": "public/vendor/email-decode.min.js",
+      "bytes": 1239,
+      "sha256": "2595496fe48df6fcf9b1bc57c29a744c121eb4dd11566466bc13d2e52e6bbcc8",
+      "upstream_sha256": "2595496fe48df6fcf9b1bc57c29a744c121eb4dd11566466bc13d2e52e6bbcc8"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css2?family=Gloria+Hallelujah&family=Schoolbell&family=Teko:wght@400..700&family=DM+Mono:wght@400;500;700&family=Dr+Sugiyama&family=Inter:wght@400;600;800;900&family=Bebas+Neue&family=DM+Sans:ital,wght@0,300;0,400;0,500;0,600;1,400&family=Lilita+One&display=swap",
+      "path": "public/vendor/fonts-0.css",
+      "bytes": 21022,
+      "sha256": "9ff862a5d777d8a9fe9e43e70c67cf2cc0814f41cd983600e7902c9144fc8bcd",
+      "upstream_sha256": "35d00b0ebde6861101e46f080e479fac89257ba6122d61fd1c956be4232ff7c1"
+    },
+    {
+      "url": "https://fonts.cdnfonts.com/css/open-sauce-one",
+      "path": "public/vendor/fonts-1.css",
+      "bytes": 9107,
+      "sha256": "2d5c5bf989145338f5f4cb157297d0aa79dee2f66176b81821eaef3403857357",
+      "upstream_sha256": "ce45641b577c3be29344345a18505dba1f10344cd03778af26c4fe055821af29"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/bebasneue/v16/JTUSjIg69CK48gW7PXoo9Wdhyzbi.woff2",
+      "path": "public/vendor/fonts/family-0-0.woff2",
+      "bytes": 8928,
+      "sha256": "16c95ce45a2922f52551d38d565d14c92cf257b8f219c89613407d81fdd21a39",
+      "upstream_sha256": "16c95ce45a2922f52551d38d565d14c92cf257b8f219c89613407d81fdd21a39"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/bebasneue/v16/JTUSjIg69CK48gW7PXoo9Wlhyw.woff2",
+      "path": "public/vendor/fonts/family-0-1.woff2",
+      "bytes": 13768,
+      "sha256": "a7c90c89240c134f7fdd33d40c000ec90b79d675ea53e8cc5a6d423c073de412",
+      "upstream_sha256": "a7c90c89240c134f7fdd33d40c000ec90b79d675ea53e8cc5a6d423c073de412"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/drsugiyama/v30/HTxoL2k4N3O9n5I1boGI7ZbWOY4.woff2",
+      "path": "public/vendor/fonts/family-0-10.woff2",
+      "bytes": 15316,
+      "sha256": "b7230c53f46fbf807eb95e4311aa77e5c468b9a56a598b25fbfa4b572a411ee4",
+      "upstream_sha256": "b7230c53f46fbf807eb95e4311aa77e5c468b9a56a598b25fbfa4b572a411ee4"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/drsugiyama/v30/HTxoL2k4N3O9n5I1boGI7ZbYOY6d-g.woff2",
+      "path": "public/vendor/fonts/family-0-11.woff2",
+      "bytes": 1788,
+      "sha256": "abaaea05727d64129366b60a81946ae5ba37f85cab678db44b517d6538d718c0",
+      "upstream_sha256": "abaaea05727d64129366b60a81946ae5ba37f85cab678db44b517d6538d718c0"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/gloriahallelujah/v24/LYjYdHv3kUk9BMV96EIswT9DIbW-MIS11zM.woff2",
+      "path": "public/vendor/fonts/family-0-12.woff2",
+      "bytes": 18596,
+      "sha256": "90b0ef8d2ed6d4b46b4e010e7b335b182c45c330a15bac3ca76497dbae544700",
+      "upstream_sha256": "90b0ef8d2ed6d4b46b4e010e7b335b182c45c330a15bac3ca76497dbae544700"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/gloriahallelujah/v24/LYjYdHv3kUk9BMV96EIswT9DIbW-MIS71zO0vg.woff2",
+      "path": "public/vendor/fonts/family-0-13.woff2",
+      "bytes": 11076,
+      "sha256": "a9147c3d1fe79b84ce1a9148ca0ac42933aa0f7fff0096ebb835a73a278342df",
+      "upstream_sha256": "a9147c3d1fe79b84ce1a9148ca0ac42933aa0f7fff0096ebb835a73a278342df"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa0ZL7SUc.woff2",
+      "path": "public/vendor/fonts/family-0-14.woff2",
+      "bytes": 18748,
+      "sha256": "71d5ee93cc1e9f1d520a3a8b66456de18c7879d8df09d57fcd2eaff75fef0075",
+      "upstream_sha256": "71d5ee93cc1e9f1d520a3a8b66456de18c7879d8df09d57fcd2eaff75fef0075"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1ZL7.woff2",
+      "path": "public/vendor/fonts/family-0-15.woff2",
+      "bytes": 48256,
+      "sha256": "3100e775e8616cd2611beecfa23a4263d7037586789b43f035236a2e6fbd4c62",
+      "upstream_sha256": "3100e775e8616cd2611beecfa23a4263d7037586789b43f035236a2e6fbd4c62"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1pL7SUc.woff2",
+      "path": "public/vendor/fonts/family-0-16.woff2",
+      "bytes": 18996,
+      "sha256": "1be3448e292fbf05ffe176fe1e43f135013d50b1e7d324ad1a558f623d3bb6f6",
+      "upstream_sha256": "1be3448e292fbf05ffe176fe1e43f135013d50b1e7d324ad1a558f623d3bb6f6"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa25L7SUc.woff2",
+      "path": "public/vendor/fonts/family-0-17.woff2",
+      "bytes": 85068,
+      "sha256": "34b9c504cab7a73e37b746343a449132e56cf7b5481af2cb81dc74dcff25c956",
+      "upstream_sha256": "34b9c504cab7a73e37b746343a449132e56cf7b5481af2cb81dc74dcff25c956"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2JL7SUc.woff2",
+      "path": "public/vendor/fonts/family-0-18.woff2",
+      "bytes": 25960,
+      "sha256": "ca157063339ac4ad418f214f3abfed119b0798ab4d377386ce5c9e5a7a435ebd",
+      "upstream_sha256": "ca157063339ac4ad418f214f3abfed119b0798ab4d377386ce5c9e5a7a435ebd"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2ZL7SUc.woff2",
+      "path": "public/vendor/fonts/family-0-19.woff2",
+      "bytes": 11232,
+      "sha256": "6e9e020a25f9b56d418f2c085b1d3c09725a4da23fe693a5b463064606732190",
+      "upstream_sha256": "6e9e020a25f9b56d418f2c085b1d3c09725a4da23fe693a5b463064606732190"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/dmmono/v16/aFTR7PB1QTsUX8KYvumzEY2tbZX9.woff2",
+      "path": "public/vendor/fonts/family-0-2.woff2",
+      "bytes": 9616,
+      "sha256": "8711f938c3f04f91e35ae64ebc7f2eecd800d2ae1c3542f6c837c758a50422f5",
+      "upstream_sha256": "8711f938c3f04f91e35ae64ebc7f2eecd800d2ae1c3542f6c837c758a50422f5"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2pL7SUc.woff2",
+      "path": "public/vendor/fonts/family-0-20.woff2",
+      "bytes": 10252,
+      "sha256": "5c66f9e07e90c6d4ac4922cc68d60de26c17b1858e677fb5e603fce3952b3ff2",
+      "upstream_sha256": "5c66f9e07e90c6d4ac4922cc68d60de26c17b1858e677fb5e603fce3952b3ff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/lilitaone/v17/i7dPIFZ9Zz-WBtRtedDbYE98RWq7.woff2",
+      "path": "public/vendor/fonts/family-0-21.woff2",
+      "bytes": 1384,
+      "sha256": "f40903e46b04b3f1f423fd1416e89c17fddaf4c75afc6cb4b2f83c5a487a6db1",
+      "upstream_sha256": "f40903e46b04b3f1f423fd1416e89c17fddaf4c75afc6cb4b2f83c5a487a6db1"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/lilitaone/v17/i7dPIFZ9Zz-WBtRtedDbYEF8RQ.woff2",
+      "path": "public/vendor/fonts/family-0-22.woff2",
+      "bytes": 10672,
+      "sha256": "d2575d4fa3632580aafcbcdf6978b3b57e144b90cf5bd9c2c98194f28b869704",
+      "upstream_sha256": "d2575d4fa3632580aafcbcdf6978b3b57e144b90cf5bd9c2c98194f28b869704"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/schoolbell/v18/92zQtBZWOrcgoe-fgnJIZxUa6w.woff2",
+      "path": "public/vendor/fonts/family-0-23.woff2",
+      "bytes": 21408,
+      "sha256": "9b308506b890f3b49de775d414f639dfd0a9c88dcc7944451292be56b57a4e77",
+      "upstream_sha256": "9b308506b890f3b49de775d414f639dfd0a9c88dcc7944451292be56b57a4e77"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/teko/v23/LYjNdG7kmE0gfa19pRtB.woff2",
+      "path": "public/vendor/fonts/family-0-24.woff2",
+      "bytes": 7388,
+      "sha256": "6d7db4486f7a3186304c10cee8dfefa4b9ebc4293df59d1b5e75d2ba90382404",
+      "upstream_sha256": "6d7db4486f7a3186304c10cee8dfefa4b9ebc4293df59d1b5e75d2ba90382404"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/teko/v23/LYjNdG7kmE0gfaJ9pRtB.woff2",
+      "path": "public/vendor/fonts/family-0-25.woff2",
+      "bytes": 63704,
+      "sha256": "41181c8d6f89781c59a2dc91ad3f22ca16c0b4bbdabf8a0e2c2da4c9bef5bf06",
+      "upstream_sha256": "41181c8d6f89781c59a2dc91ad3f22ca16c0b4bbdabf8a0e2c2da4c9bef5bf06"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/teko/v23/LYjNdG7kmE0gfaN9pQ.woff2",
+      "path": "public/vendor/fonts/family-0-26.woff2",
+      "bytes": 15420,
+      "sha256": "9f908ba2cfa6103dd08e4e59b6be48fafc790f55c7f718be712d3d13170a93fb",
+      "upstream_sha256": "9f908ba2cfa6103dd08e4e59b6be48fafc790f55c7f718be712d3d13170a93fb"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/dmmono/v16/aFTR7PB1QTsUX8KYvumzEYOtbQ.woff2",
+      "path": "public/vendor/fonts/family-0-3.woff2",
+      "bytes": 14988,
+      "sha256": "9964608a849396bd00c4bfd7034afe03486469dcf20b4f6b8cbdfdd310369951",
+      "upstream_sha256": "9964608a849396bd00c4bfd7034afe03486469dcf20b4f6b8cbdfdd310369951"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/dmmono/v16/aFTU7PB1QTsUX8KYthSQBLyM.woff2",
+      "path": "public/vendor/fonts/family-0-4.woff2",
+      "bytes": 9552,
+      "sha256": "a52e19ebe0398c9c0f8fa28a0c5e9a6bc324f35d9f0881c9aa407d10af447175",
+      "upstream_sha256": "a52e19ebe0398c9c0f8fa28a0c5e9a6bc324f35d9f0881c9aa407d10af447175"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/dmmono/v16/aFTU7PB1QTsUX8KYthqQBA.woff2",
+      "path": "public/vendor/fonts/family-0-5.woff2",
+      "bytes": 14820,
+      "sha256": "e1896b13b2b1bb112fac2f9571bd6c40e118746e77a4511edbf43fbb41bf3e1e",
+      "upstream_sha256": "e1896b13b2b1bb112fac2f9571bd6c40e118746e77a4511edbf43fbb41bf3e1e"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/dmsans/v17/rP2Yp2ywxg089UriI5-g4vlH9VoD8Cmcqbu0-K4.woff2",
+      "path": "public/vendor/fonts/family-0-6.woff2",
+      "bytes": 36932,
+      "sha256": "9fea608a947e67020c33cad9a6fe3d60c54119dfb8cff87768a8117a15ed7543",
+      "upstream_sha256": "9fea608a947e67020c33cad9a6fe3d60c54119dfb8cff87768a8117a15ed7543"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/dmsans/v17/rP2Yp2ywxg089UriI5-g4vlH9VoD8Cmcqbu6-K6h9Q.woff2",
+      "path": "public/vendor/fonts/family-0-7.woff2",
+      "bytes": 18228,
+      "sha256": "a5d38fe99f930275684999b462c7123faa063d9e44e73b4b241723d884aa0f49",
+      "upstream_sha256": "a5d38fe99f930275684999b462c7123faa063d9e44e73b4b241723d884aa0f49"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat-JDV30TGc.woff2",
+      "path": "public/vendor/fonts/family-0-8.woff2",
+      "bytes": 15140,
+      "sha256": "5da946c1525e99ad130ac74ad021cb4f85a8be57ee167969ce4573bff1d84f10",
+      "upstream_sha256": "5da946c1525e99ad130ac74ad021cb4f85a8be57ee167969ce4573bff1d84f10"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat-JDV36TGc5pg.woff2",
+      "path": "public/vendor/fonts/family-0-9.woff2",
+      "bytes": 8128,
+      "sha256": "db30615bc41c43b0c215a907254296fe7ac9215b20d04ed609ce7cdbc91c114f",
+      "upstream_sha256": "db30615bc41c43b0c215a907254296fe7ac9215b20d04ed609ce7cdbc91c114f"
+    },
+    {
+      "url": "https://fonts.cdnfonts.com/s/88496/OpenSauceOne-Black.woff",
+      "path": "public/vendor/fonts/family-1-0.woff",
+      "bytes": 30108,
+      "sha256": "a57746ed7d10a7f8c337d9958e376d6caa3bb1c18c58abf20f8dffec22065599",
+      "upstream_sha256": "a57746ed7d10a7f8c337d9958e376d6caa3bb1c18c58abf20f8dffec22065599"
+    },
+    {
+      "url": "https://fonts.cdnfonts.com/s/88496/OpenSauceOne-BlackItalic.woff",
+      "path": "public/vendor/fonts/family-1-1.woff",
+      "bytes": 31224,
+      "sha256": "cf947d83756546440c1a4ff84ef257656edaf4120c27c9149108024aa25aa43a",
+      "upstream_sha256": "cf947d83756546440c1a4ff84ef257656edaf4120c27c9149108024aa25aa43a"
+    },
+    {
+      "url": "https://fonts.cdnfonts.com/s/88496/OpenSauceOne-MediumItalic.woff",
+      "path": "public/vendor/fonts/family-1-10.woff",
+      "bytes": 30692,
+      "sha256": "7b68762a1014caba8a938190ccdf7e6fe6d910466435004910ccca8de39a57a6",
+      "upstream_sha256": "7b68762a1014caba8a938190ccdf7e6fe6d910466435004910ccca8de39a57a6"
+    },
+    {
+      "url": "https://fonts.cdnfonts.com/s/88496/OpenSauceOne-Regular.woff",
+      "path": "public/vendor/fonts/family-1-11.woff",
+      "bytes": 28376,
+      "sha256": "6381d648cbdd3a8d0f26d9c16e361ce59134aafe829a88bd9ec7e67c636218d7",
+      "upstream_sha256": "6381d648cbdd3a8d0f26d9c16e361ce59134aafe829a88bd9ec7e67c636218d7"
+    },
+    {
+      "url": "https://fonts.cdnfonts.com/s/88496/OpenSauceOne-SemiBold.woff",
+      "path": "public/vendor/fonts/family-1-12.woff",
+      "bytes": 29264,
+      "sha256": "7bef0160930d5a299718f1b708754a3a99d866f23a9b78eac43244649c430b10",
+      "upstream_sha256": "7bef0160930d5a299718f1b708754a3a99d866f23a9b78eac43244649c430b10"
+    },
+    {
+      "url": "https://fonts.cdnfonts.com/s/88496/OpenSauceOne-SemiBoldItalic.woff",
+      "path": "public/vendor/fonts/family-1-13.woff",
+      "bytes": 30840,
+      "sha256": "6e68e6c03d9479c3fd6f865ea4585f47f1c92234d74ece7b233378db3f43de8a",
+      "upstream_sha256": "6e68e6c03d9479c3fd6f865ea4585f47f1c92234d74ece7b233378db3f43de8a"
+    },
+    {
+      "url": "https://fonts.cdnfonts.com/s/88496/OpenSauceSans-Black.woff",
+      "path": "public/vendor/fonts/family-1-14.woff",
+      "bytes": 31816,
+      "sha256": "ad2cb70ad0d9a1f45fe8de0e7c5880a72cfa6326b8cc9b81d394e31e1c6cc70d",
+      "upstream_sha256": "ad2cb70ad0d9a1f45fe8de0e7c5880a72cfa6326b8cc9b81d394e31e1c6cc70d"
+    },
+    {
+      "url": "https://fonts.cdnfonts.com/s/88496/OpenSauceSans-BlackItalic.woff",
+      "path": "public/vendor/fonts/family-1-15.woff",
+      "bytes": 33200,
+      "sha256": "df74e191e31dbac8498dbcfe462fdf78cf0796e6b59af7208fe456414e6ba17a",
+      "upstream_sha256": "df74e191e31dbac8498dbcfe462fdf78cf0796e6b59af7208fe456414e6ba17a"
+    },
+    {
+      "url": "https://fonts.cdnfonts.com/s/88496/OpenSauceSans-Bold.woff",
+      "path": "public/vendor/fonts/family-1-16.woff",
+      "bytes": 30760,
+      "sha256": "73758f01d544725c234318d53b29381e6098a67f4995f1a97dd2dbec376c7b22",
+      "upstream_sha256": "73758f01d544725c234318d53b29381e6098a67f4995f1a97dd2dbec376c7b22"
+    },
+    {
+      "url": "https://fonts.cdnfonts.com/s/88496/OpenSauceSans-BoldItalic.woff",
+      "path": "public/vendor/fonts/family-1-17.woff",
+      "bytes": 32428,
+      "sha256": "3d8dd79701798195d9c6b6f52f203c9dd93c04b8a2c7aa4aefdcadb9377f9454",
+      "upstream_sha256": "3d8dd79701798195d9c6b6f52f203c9dd93c04b8a2c7aa4aefdcadb9377f9454"
+    },
+    {
+      "url": "https://fonts.cdnfonts.com/s/88496/OpenSauceSans-ExtraBold.woff",
+      "path": "public/vendor/fonts/family-1-18.woff",
+      "bytes": 31620,
+      "sha256": "a823a2a20fc9d92a7b7b5280fd8b33ad1258b58d768a54e4f8b2dd6a667b6eb6",
+      "upstream_sha256": "a823a2a20fc9d92a7b7b5280fd8b33ad1258b58d768a54e4f8b2dd6a667b6eb6"
+    },
+    {
+      "url": "https://fonts.cdnfonts.com/s/88496/OpenSauceSans-ExtraBoldItalic.woff",
+      "path": "public/vendor/fonts/family-1-19.woff",
+      "bytes": 33552,
+      "sha256": "8d68ed6aff0ed8727e46b72197468bdcfe1952d09e1b59b6e9373289a1523f3c",
+      "upstream_sha256": "8d68ed6aff0ed8727e46b72197468bdcfe1952d09e1b59b6e9373289a1523f3c"
+    },
+    {
+      "url": "https://fonts.cdnfonts.com/s/88496/OpenSauceOne-Bold.woff",
+      "path": "public/vendor/fonts/family-1-2.woff",
+      "bytes": 29116,
+      "sha256": "997d4f1485386f4c1725f5e3d223beb02377e087269dac713bf8abd726a30121",
+      "upstream_sha256": "997d4f1485386f4c1725f5e3d223beb02377e087269dac713bf8abd726a30121"
+    },
+    {
+      "url": "https://fonts.cdnfonts.com/s/88496/OpenSauceSans-Italic.woff",
+      "path": "public/vendor/fonts/family-1-20.woff",
+      "bytes": 31612,
+      "sha256": "3dafdeee7c4109700cc7fe74b83b00b6b5d91566d066c18f5de72741cc167d75",
+      "upstream_sha256": "3dafdeee7c4109700cc7fe74b83b00b6b5d91566d066c18f5de72741cc167d75"
+    },
+    {
+      "url": "https://fonts.cdnfonts.com/s/88496/OpenSauceSans-Light.woff",
+      "path": "public/vendor/fonts/family-1-21.woff",
+      "bytes": 29984,
+      "sha256": "87115689f9afb7c5ce7eeb91daa48fa13b5a706d458dd2c76bffc2a73ca29ea1",
+      "upstream_sha256": "87115689f9afb7c5ce7eeb91daa48fa13b5a706d458dd2c76bffc2a73ca29ea1"
+    },
+    {
+      "url": "https://fonts.cdnfonts.com/s/88496/OpenSauceSans-LightItalic.woff",
+      "path": "public/vendor/fonts/family-1-22.woff",
+      "bytes": 31420,
+      "sha256": "8005a8d80bf54020fb25414a92443c91cf0751bf04b06d8e10fe7169ba753d36",
+      "upstream_sha256": "8005a8d80bf54020fb25414a92443c91cf0751bf04b06d8e10fe7169ba753d36"
+    },
+    {
+      "url": "https://fonts.cdnfonts.com/s/88496/OpenSauceSans-Medium.woff",
+      "path": "public/vendor/fonts/family-1-23.woff",
+      "bytes": 31088,
+      "sha256": "5943bd0dedd8bc5692999747d5e281dab75fde0bb24796f3d9f8eea6a69d070b",
+      "upstream_sha256": "5943bd0dedd8bc5692999747d5e281dab75fde0bb24796f3d9f8eea6a69d070b"
+    },
+    {
+      "url": "https://fonts.cdnfonts.com/s/88496/OpenSauceSans-MediumItalic.woff",
+      "path": "public/vendor/fonts/family-1-24.woff",
+      "bytes": 32548,
+      "sha256": "89d785770920fc2f122cc7cf9a940074177705eb3c56324828a3296a2bf61f7c",
+      "upstream_sha256": "89d785770920fc2f122cc7cf9a940074177705eb3c56324828a3296a2bf61f7c"
+    },
+    {
+      "url": "https://fonts.cdnfonts.com/s/88496/OpenSauceSans-Regular.woff",
+      "path": "public/vendor/fonts/family-1-25.woff",
+      "bytes": 30000,
+      "sha256": "b551fbc86e785ce82ec8cc3cb6384e23febac2af6461b7dd25919d22a1b407db",
+      "upstream_sha256": "b551fbc86e785ce82ec8cc3cb6384e23febac2af6461b7dd25919d22a1b407db"
+    },
+    {
+      "url": "https://fonts.cdnfonts.com/s/88496/OpenSauceSans-SemiBold.woff",
+      "path": "public/vendor/fonts/family-1-26.woff",
+      "bytes": 30904,
+      "sha256": "53c2f071ec222dbc4d4e004905497be5be80f00c0bde644c761dd2780d0a527f",
+      "upstream_sha256": "53c2f071ec222dbc4d4e004905497be5be80f00c0bde644c761dd2780d0a527f"
+    },
+    {
+      "url": "https://fonts.cdnfonts.com/s/88496/OpenSauceSans-SemiBoldItalic.woff",
+      "path": "public/vendor/fonts/family-1-27.woff",
+      "bytes": 32580,
+      "sha256": "a35a390315fc046d5a62b0b2cae199089f5902e6da88c53adb6cf0f1cf62f87d",
+      "upstream_sha256": "a35a390315fc046d5a62b0b2cae199089f5902e6da88c53adb6cf0f1cf62f87d"
+    },
+    {
+      "url": "https://fonts.cdnfonts.com/s/88496/OpenSauceTwo-Black.woff",
+      "path": "public/vendor/fonts/family-1-28.woff",
+      "bytes": 33620,
+      "sha256": "1e55d39850ec7dd7f48012bd14c25a3f0a54b657376e90606ca14a6b879e1254",
+      "upstream_sha256": "1e55d39850ec7dd7f48012bd14c25a3f0a54b657376e90606ca14a6b879e1254"
+    },
+    {
+      "url": "https://fonts.cdnfonts.com/s/88496/OpenSauceTwo-BlackItalic.woff",
+      "path": "public/vendor/fonts/family-1-29.woff",
+      "bytes": 36464,
+      "sha256": "9117713b917817adc9aa91c446a37f29d2ccf51ecd863baaae7246ce632239cc",
+      "upstream_sha256": "9117713b917817adc9aa91c446a37f29d2ccf51ecd863baaae7246ce632239cc"
+    },
+    {
+      "url": "https://fonts.cdnfonts.com/s/88496/OpenSauceOne-BoldItalic.woff",
+      "path": "public/vendor/fonts/family-1-3.woff",
+      "bytes": 30380,
+      "sha256": "c4248de7c0e74a70f73b80a0e00b85c2a6d64f3c7505e7eb8c914a618736db82",
+      "upstream_sha256": "c4248de7c0e74a70f73b80a0e00b85c2a6d64f3c7505e7eb8c914a618736db82"
+    },
+    {
+      "url": "https://fonts.cdnfonts.com/s/88496/OpenSauceTwo-Bold.woff",
+      "path": "public/vendor/fonts/family-1-30.woff",
+      "bytes": 33012,
+      "sha256": "06a4dc092a9b44556cadd9552ef3d475854a644b3a75768ee76aa2e400b8212f",
+      "upstream_sha256": "06a4dc092a9b44556cadd9552ef3d475854a644b3a75768ee76aa2e400b8212f"
+    },
+    {
+      "url": "https://fonts.cdnfonts.com/s/88496/OpenSauceTwo-BoldItalic.woff",
+      "path": "public/vendor/fonts/family-1-31.woff",
+      "bytes": 35760,
+      "sha256": "206ccc1ee4f64452e27af4b047f6e633e5d3e23a3d3c3a6cf5ad54458bcfa7a0",
+      "upstream_sha256": "206ccc1ee4f64452e27af4b047f6e633e5d3e23a3d3c3a6cf5ad54458bcfa7a0"
+    },
+    {
+      "url": "https://fonts.cdnfonts.com/s/88496/OpenSauceTwo-ExtraBold.woff",
+      "path": "public/vendor/fonts/family-1-32.woff",
+      "bytes": 33968,
+      "sha256": "087b3a5ac1e1bb9cba518a444582d4b7fa465201ea92665fd0461e510a7b4398",
+      "upstream_sha256": "087b3a5ac1e1bb9cba518a444582d4b7fa465201ea92665fd0461e510a7b4398"
+    },
+    {
+      "url": "https://fonts.cdnfonts.com/s/88496/OpenSauceTwo-ExtraBoldItalic.woff",
+      "path": "public/vendor/fonts/family-1-33.woff",
+      "bytes": 36752,
+      "sha256": "7b1623e564d628302e152e90b754b51377140bb5199fb533f68da7234a76668c",
+      "upstream_sha256": "7b1623e564d628302e152e90b754b51377140bb5199fb533f68da7234a76668c"
+    },
+    {
+      "url": "https://fonts.cdnfonts.com/s/88496/OpenSauceTwo-Italic.woff",
+      "path": "public/vendor/fonts/family-1-34.woff",
+      "bytes": 33552,
+      "sha256": "bf510817aaa1e68cc2b7982acb285e0226bff015699560219f6eccc1cb19ce73",
+      "upstream_sha256": "bf510817aaa1e68cc2b7982acb285e0226bff015699560219f6eccc1cb19ce73"
+    },
+    {
+      "url": "https://fonts.cdnfonts.com/s/88496/OpenSauceTwo-Light.woff",
+      "path": "public/vendor/fonts/family-1-35.woff",
+      "bytes": 31520,
+      "sha256": "6134580301f82de335c137b68018917cea45f1bdaf6c9b9870b90bbf4cde6c9f",
+      "upstream_sha256": "6134580301f82de335c137b68018917cea45f1bdaf6c9b9870b90bbf4cde6c9f"
+    },
+    {
+      "url": "https://fonts.cdnfonts.com/s/88496/OpenSauceTwo-LightItalic.woff",
+      "path": "public/vendor/fonts/family-1-36.woff",
+      "bytes": 33564,
+      "sha256": "e7b1a09331e61463a5d7756a782e3ab363f56d0237f7ae0989fe71d3a4a6fa0e",
+      "upstream_sha256": "e7b1a09331e61463a5d7756a782e3ab363f56d0237f7ae0989fe71d3a4a6fa0e"
+    },
+    {
+      "url": "https://fonts.cdnfonts.com/s/88496/OpenSauceTwo-Medium.woff",
+      "path": "public/vendor/fonts/family-1-37.woff",
+      "bytes": 32860,
+      "sha256": "6cc920ec4889f29e02b7d011f482ab08f70f6e27a9d8d48d094a27616922f337",
+      "upstream_sha256": "6cc920ec4889f29e02b7d011f482ab08f70f6e27a9d8d48d094a27616922f337"
+    },
+    {
+      "url": "https://fonts.cdnfonts.com/s/88496/OpenSauceTwo-MediumItalic.woff",
+      "path": "public/vendor/fonts/family-1-38.woff",
+      "bytes": 35404,
+      "sha256": "4fb9649f87bb6a9d547822b6c57be643a54bf06fbe4c6bde9ea70a556a210c18",
+      "upstream_sha256": "4fb9649f87bb6a9d547822b6c57be643a54bf06fbe4c6bde9ea70a556a210c18"
+    },
+    {
+      "url": "https://fonts.cdnfonts.com/s/88496/OpenSauceTwo-Regular.woff",
+      "path": "public/vendor/fonts/family-1-39.woff",
+      "bytes": 31312,
+      "sha256": "c9d06167e62b0264877180c2c257765ac26f35f8ead4a2768cc507002bee8aab",
+      "upstream_sha256": "c9d06167e62b0264877180c2c257765ac26f35f8ead4a2768cc507002bee8aab"
+    },
+    {
+      "url": "https://fonts.cdnfonts.com/s/88496/OpenSauceOne-ExtraBold.woff",
+      "path": "public/vendor/fonts/family-1-4.woff",
+      "bytes": 29916,
+      "sha256": "3c89b86ad9dea27adb146bfcd27929a4db9c965bddeb94f58a42646bc1ed2616",
+      "upstream_sha256": "3c89b86ad9dea27adb146bfcd27929a4db9c965bddeb94f58a42646bc1ed2616"
+    },
+    {
+      "url": "https://fonts.cdnfonts.com/s/88496/OpenSauceTwo-SemiBold.woff",
+      "path": "public/vendor/fonts/family-1-40.woff",
+      "bytes": 33740,
+      "sha256": "643301fcfb565e801f72c936b2b460cc20d7ceb201b3ff14a55eb70827ffaad2",
+      "upstream_sha256": "643301fcfb565e801f72c936b2b460cc20d7ceb201b3ff14a55eb70827ffaad2"
+    },
+    {
+      "url": "https://fonts.cdnfonts.com/s/88496/OpenSauceTwo-SemiBoldItalic.woff",
+      "path": "public/vendor/fonts/family-1-41.woff",
+      "bytes": 35772,
+      "sha256": "28232b928f423d539ea052cdab47f039c013dd896709fa750624c04f492718a5",
+      "upstream_sha256": "28232b928f423d539ea052cdab47f039c013dd896709fa750624c04f492718a5"
+    },
+    {
+      "url": "https://fonts.cdnfonts.com/s/88496/OpenSauceOne-ExtraBoldItalic.woff",
+      "path": "public/vendor/fonts/family-1-5.woff",
+      "bytes": 31308,
+      "sha256": "6c741d906696cbc2a84e0f14f9da2ba666cf8b3b055868e002e32b17fd3d6d0b",
+      "upstream_sha256": "6c741d906696cbc2a84e0f14f9da2ba666cf8b3b055868e002e32b17fd3d6d0b"
+    },
+    {
+      "url": "https://fonts.cdnfonts.com/s/88496/OpenSauceOne-Italic.woff",
+      "path": "public/vendor/fonts/family-1-6.woff",
+      "bytes": 29852,
+      "sha256": "aacb14484c969996be3e6ad1071dc05167d3a53393537020b8032670a1c342da",
+      "upstream_sha256": "aacb14484c969996be3e6ad1071dc05167d3a53393537020b8032670a1c342da"
+    },
+    {
+      "url": "https://fonts.cdnfonts.com/s/88496/OpenSauceOne-Light.woff",
+      "path": "public/vendor/fonts/family-1-7.woff",
+      "bytes": 28504,
+      "sha256": "5abd645371b6fc563b777098eb9309819c33da7db4ef72a5361f5c0f1e4c41e4",
+      "upstream_sha256": "5abd645371b6fc563b777098eb9309819c33da7db4ef72a5361f5c0f1e4c41e4"
+    },
+    {
+      "url": "https://fonts.cdnfonts.com/s/88496/OpenSauceOne-LightItalic.woff",
+      "path": "public/vendor/fonts/family-1-8.woff",
+      "bytes": 29936,
+      "sha256": "53e71a94089ee3c97417272c0a31f295ffebfe8a9136f26479f8f40d2c5a8301",
+      "upstream_sha256": "53e71a94089ee3c97417272c0a31f295ffebfe8a9136f26479f8f40d2c5a8301"
+    },
+    {
+      "url": "https://fonts.cdnfonts.com/s/88496/OpenSauceOne-Medium.woff",
+      "path": "public/vendor/fonts/family-1-9.woff",
+      "bytes": 29380,
+      "sha256": "d44873849a6a86dee254db9aeacf9aee1596d52ebef589182279a9a96cc07644",
+      "upstream_sha256": "d44873849a6a86dee254db9aeacf9aee1596d52ebef589182279a9a96cc07644"
+    },
+    {
+      "url": "https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/gsap.min.js",
+      "path": "public/vendor/gsap.min.js",
+      "bytes": 71520,
+      "sha256": "efc85c7eb141819717cda0033484a84b1c890d13b02e355a2fec79d424b20e7a",
+      "integrity": "sha512-16esztaSRplJROstbIIdwX3N97V1+pZvV33ABoG1H2OyTttBxEGkTsoIVsiP1iaTtM8b3+hu2kB6pQ4Clr5yug==",
+      "upstream_sha256": "efc85c7eb141819717cda0033484a84b1c890d13b02e355a2fec79d424b20e7a"
+    },
+    {
+      "url": "https://unpkg.com/@studio-freight/lenis@1.0.34/dist/lenis.min.js",
+      "path": "public/vendor/lenis.min.js",
+      "bytes": 10433,
+      "sha256": "91f2cc3a088faa7fa62774ba3707d17f91fb93bbbd4888132e0855d48c2306fd",
+      "integrity": "sha512-dr9JWMqrveNAxDIP3+GqMfu3ZWsbut5GUfpGTZS8LaKPlT4iu72ljsBrv4oyuxUrgchtzq2zOuVYSOCNCFeKhw==",
+      "upstream_sha256": "91f2cc3a088faa7fa62774ba3707d17f91fb93bbbd4888132e0855d48c2306fd"
+    },
+    {
+      "url": "https://cdn.tailwindcss.com",
+      "path": "public/vendor/tailwind.js",
+      "bytes": 407279,
+      "sha256": "176e894661aa9cdc9a5cba6c720044cbbf7b8bd80d1c9a142a7c24b1b6c50d15",
+      "upstream_sha256": "176e894661aa9cdc9a5cba6c720044cbbf7b8bd80d1c9a142a7c24b1b6c50d15"
+    }
+  ],
+  "adaptations": [
+    "Same-origin asset, font, and script URLs",
+    "Removed Cloudflare per-request anti-bot iframe injection",
+    "Removed remote font preconnects",
+    "Omitted the upstream 404 Lucide script without substituting a version"
+  ]
+}
